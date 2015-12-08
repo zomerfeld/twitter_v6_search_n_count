@@ -80,14 +80,16 @@ void keyPressed( ) {
 
 void makeWordTable(String file) {
   String[] stopWords = loadStrings("StopWords.txt"); //Loads Stop Words File
-  //println(stopWords);
+  println("stopWords loaded");
   String[] data = loadStrings(file);
+  println("strings loaded");
   StringBuilder strBuilder = new StringBuilder();
   for (int i=0; i<data.length; i++) {
     //  data[i] = data[i].toLowerCase().replaceAll("\\W", " ").replaceAll(" +", " ");
     data[i] = data[i].toLowerCase();
 
     strBuilder.append( data[i] );
+    //println("tweets stored in data array");
     //println(data[i]);
   }
 
@@ -124,14 +126,20 @@ void makeWordTable(String file) {
   int count = 0;
   Iterator it = keys.iterator();
 //  while (it.hasNext() && count < MAX) //Original with max of 10
-  while (it.hasNext())
-
-  {
-    String key = (String) it.next();
+  while (it.hasNext()) //Commenting it out to see if I can change it to an if
+  { //Saves it all to the tsv file
+    String key = (String) it.next(); 
     NameAndNumber nan = (NameAndNumber) map.get(key);
     //println(key + " -> " + nan.m_number); //prints all sorted words if you uncomment
     appendTextToFile(file+"_weighted.tsv", key + "\t" + nan.m_number); //Put tweet into the plain text file.
+    time = millis();//store the current time
+    //Trying to add a visualization for each user *************************
+    fill(0.1 * nan.m_number);
+    textSize(nan.m_number/20 +0.1);
+    text(key, random(width-50), random(height)); //prints tweet on screen
+    // end of visualization **************************************************
     count++;
+    
   }
 
   return;

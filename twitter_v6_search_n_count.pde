@@ -25,8 +25,12 @@ int rowCount = 0;
 int DataRowCount;
 long lastID = 1;
 Twitter twitter;
+PFont f;
+long time;
+int wait = 100;
 
 void setup() {
+  //frameRate(10);
   size(800, 600);
   timeString = year()+"-"+month()+"-"+day()+"-"+hour()+"-"+minute()+"-"+second(); //GET TIME
   println(timeString); // PRINT TIME
@@ -39,6 +43,14 @@ void setup() {
   dataTable = loadTable(tsvOutput, "tsv"); //The table where the tweets will be saved
   countedTable = new Table();
   tConfigure(); // Configures Twitter Authentication. The configure function is in a separate file that doesn't go on github.
+  
+  //configs for visualization:
+  time = millis();//store the current time
+  f = createFont("Arial",20,true);
+  textFont(f);
+  
+  //end configs for visualization
+  
 
   rowCount = nameTable.getRowCount();
   println("rowcount of name table is: " + rowCount);
@@ -50,7 +62,7 @@ void extractTweets(String user) {
   int userIndexRow = nameTable.findRowIndex(user,1); //finds the index row for the user
   TableRow result = nameTable.findRow(user, 1);
   String lastID_user = result.getString(2);
-  filename = "/indexed/" + user + "_" + lastID_user + ".txt";
+  filename = "indexed/" + user + "_" + lastID_user + ".txt";
 
  for (TableRow row : dataTable.findRows(user, 0)) {
     //println(row.getString(1) + ": " + row.getString(3)); //Prints all the tweets to the console
@@ -68,21 +80,28 @@ void extractTweets(String user) {
 }
 
 void draw() {
-  fill(0, 40);
+  time = millis();//store the current time
+  fill(0, 30);
   rect(0, 0, width, height); //fades the tweets from the screen by printing a semi-opaque black square on top of them
 
   currentRow++;
 
  if (currentRow < rowCount) { //if there are more users to look up in name table
      user = nameTable.getString(currentRow, 1); //gets the username from the name table
-     extractTweets(user);
-     makeWordTable(filename);
+     extractTweets(user); // puts tweets in txt file
+     println("tweets extracted");
+     makeWordTable(filename); //takes tweets, counts words and add it into a tsv
+     println("word table made");
+
  }
   
  if (currentRow == rowCount) {
-    noLoop();
     saveTable(nameTable,"data/names.tsv"); //only save table when the sketch is done
     println("***DONEZO***");
+    
+    
+    
+    noLoop();
  }
 
   //if (currentTweet < tweets.size()) { //combs over all the tweets in the memory from the get new tweets function
