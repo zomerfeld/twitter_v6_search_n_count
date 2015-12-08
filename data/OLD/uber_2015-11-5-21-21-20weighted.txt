@@ -1,0 +1,2891 @@
+@uber (1.0)
+ride (0.432)
+today (0.4)
+see (0.368)
+now (0.344)
+new (0.312)
+get (0.272)
+ubericecream (0.24)
+partners (0.224)
+nyc (0.216)
+rides (0.208)
+request (0.208)
+back (0.208)
+uberdata (0.2)
+cities (0.2)
+driver-partners (0.2)
+take (0.192)
+day (0.184)
+just (0.184)
+last (0.184)
+every (0.176)
+thanks (0.168)
+riders (0.168)
+help (0.16)
+@travisk (0.152)
+partner (0.152)
+sixthstar (0.144)
+drive (0.144)
+uberpool (0.144)
+driver (0.144)
+la (0.144)
+business (0.136)
+support (0.136)
+like (0.136)
+free (0.136)
+week (0.136)
+learn (0.136)
+live (0.136)
+sf (0.136)
+world (0.128)
+uberkittens (0.128)
+app (0.128)
+women (0.128)
+proud (0.12)
+story (0.12)
+ubermilitary (0.112)
+weekend (0.112)
+arriving (0.112)
+ubereats (0.112)
+work (0.112)
+drivers (0.112)
+driving (0.112)
+username (0.104)
+road (0.104)
+periscope (0.104)
+time (0.104)
+team (0.104)
+@nokidhungry (0.104)
+got (0.104)
+follow (0.104)
+city (0.104)
+watch (0.096)
+make (0.096)
+years (0.096)
+donate (0.096)
+http://t.co/ntp0qzsokz (0.096)
+ever (0.096)
+one (0.096)
+around (0.096)
+first (0.096)
+safe (0.096)
+love (0.096)
+http://t (0.088)
+@snapchat (0.088)
+check (0.088)
+want (0.088)
+home (0.088)
+night (0.088)
+together (0.088)
+go (0.088)
+tomorrow (0.088)
+share (0.088)
+meet (0.08)
+made (0.08)
+whyidrive (0.08)
+way (0.08)
+happy (0.08)
+best (0.08)
+people (0.08)
+look (0.08)
+future (0.08)
+uberx (0.08)
+add (0.08)
+jobs (0.072)
+introducing (0.072)
+community (0.072)
+3millionmeals (0.072)
+full (0.072)
+experience (0.072)
+http://t.co/fbj17u8c64 (0.072)
+find (0.072)
+tonight (0.072)
+vegas (0.072)
+http://t.co/zisy9cbh62 (0.072)
+less (0.072)
+right (0.064)
+need (0.064)
+ridewithpride (0.064)
+read (0.064)
+next (0.064)
+bring (0.064)
+congrats (0.064)
+madden16 (0.064)
+chi (0.064)
+award (0.064)
+keep (0.064)
+show (0.064)
+uberspringcleaning (0.056)
+year (0.056)
+friends (0.056)
+working (0.056)
+thousands (0.056)
+making (0.056)
+http://t.co/d2vbtgz01j (0.056)
+save (0.056)
+thinkandride (0.056)
+create (0.056)
+@maddonline (0.056)
+delivering (0.056)
+stay (0.056)
+along (0.056)
+select (0.056)
+move (0.056)
+https://t.co/l9omvy3f1f (0.056)
+across (0.056)
+going (0.056)
+trips (0.056)
+provide (0.056)
+http://t.co/ofkwgu3cuu (0.056)
+treat (0.056)
+riding (0.048)
+helps (0.048)
+card (0.048)
+traffic (0.048)
+service (0.048)
+tap (0.048)
+company (0.048)
+hackathon (0.048)
+sign (0.048)
+never (0.048)
+great (0.048)
+getting (0.048)
+thank (0.048)
+family (0.048)
+@capitalone (0.048)
+ended (0.048)
+behind (0.048)
+hours (0.048)
+1st (0.048)
+austin (0.048)
+trip (0.048)
+makes (0.048)
+ahead (0.048)
+military (0.048)
+late (0.048)
+know (0.048)
+ready (0.048)
+give (0.048)
+top (0.048)
+join (0.04)
+taking (0.04)
+fewer (0.04)
+@un (0.04)
+updates (0.04)
+helping (0.04)
+note (0.04)
+almost (0.04)
+easier (0.04)
+apple (0.04)
+things (0.04)
+life (0.04)
+start (0.04)
+end (0.04)
+minutes (0.04)
+using (0.04)
+something (0.04)
+congratulations (0.04)
+win (0.04)
+bringing (0.04)
+favorite (0.04)
+taken (0.04)
+via (0.04)
+developers (0.04)
+even (0.04)
+mean (0.04)
+las (0.04)
+winners (0.04)
+surveyed (0.04)
+bos (0.04)
+everyone (0.04)
+ridesharing (0.04)
+whole (0.04)
+site (0.04)
+sweet (0.04)
+pro (0.04)
+http://t.co/oupozrstch (0.04)
+put (0.04)
+ceo (0.04)
+let (0.04)
+excited (0.04)
+travel (0.04)
+sharing (0.04)
+exclusive (0.04)
+@jasonderulo (0.04)
+members (0.04)
+forget (0.04)
+ny (0.04)
+month (0.04)
+@designinguber (0.04)
+choice (0.04)
+order (0.04)
+event (0.032)
+@ryangraves (0.032)
+days (0.032)
+partnership (0.032)
+pickup (0.032)
+donating (0.032)
+@itgetsbetter (0.032)
+http://t.co/kue9bkjzhf (0.032)
+apply (0.032)
+flexibility (0.032)
+donation (0.032)
+halloween (0.032)
+pick (0.032)
+cars (0.032)
+china (0.032)
+saved (0.032)
+places (0.032)
+https://t.co/9slcixl5o2 (0.032)
+arrived (0.032)
+many (0.032)
+san (0.032)
+happened (0.032)
+town (0.032)
+today's (0.032)
+rider (0.032)
+details (0.032)
+wait (0.032)
+http://t.co/uxyk6w1kud (0.032)
+honored (0.032)
+http://t.co/j5ntqqjvjv (0.032)
+amazing (0.032)
+uberon (0.032)
+destination (0.032)
+looking (0.032)
+official (0.032)
+tuned (0.032)
+http://t.co (0.032)
+whyiride (0.032)
+donated (0.032)
+london (0.032)
+quicksilver (0.032)
+@wsj (0.032)
+valentine (0.032)
+grow (0.032)
+choose (0.032)
+hunger (0.032)
+suiteride (0.032)
+covered (0.032)
+tbt (0.032)
+program (0.032)
+office (0.032)
+@goodwillintl (0.032)
+big (0.032)
+tell (0.032)
+veterans (0.032)
+code (0.032)
+earning (0.032)
+fare (0.032)
+april (0.032)
+per (0.032)
+since (0.032)
+enter (0.032)
+francisco (0.032)
+earn (0.032)
+lot (0.032)
+use (0.032)
+hundreds (0.032)
+celebrating (0.032)
+petition (0.032)
+anything (0.032)
+million (0.032)
+excellence (0.032)
+highest (0.032)
+needs (0.032)
+met (0.032)
+integration (0.032)
+snapchat (0.032)
+emissions (0.032)
+officially (0.032)
+nc (0.032)
+celebrate (0.032)
+http://t.co/1tvwubu7a1 (0.032)
+winner (0.032)
+option (0.032)
+journey (0.032)
+sd (0.032)
+reduce (0.032)
+businesses (0.032)
+months (0.032)
+mayor (0.032)
+answer (0.024)
+nola (0.024)
+seattle (0.024)
+enjoy (0.024)
+change (0.024)
+justgotbetter (0.024)
+1millionmore (0.024)
+report (0.024)
+http://t.co/3rmflfleg6 (0.024)
+mobility (0.024)
+http://t.co/ebu7l5lgmi (0.024)
+momentum (0.024)
+@iava (0.024)
+eta (0.024)
+understand (0.024)
+eve (0.024)
+kingsman (0.024)
+care (0.024)
+shared (0.024)
+vets (0.024)
+cheapest (0.024)
+child (0.024)
+grateful (0.024)
+chill (0.024)
+teaming (0.024)
+receiving (0.024)
+toward (0.024)
+commute (0.024)
+sure (0.024)
+currently (0.024)
+vision (0.024)
+miss (0.024)
+features (0.024)
+http://t.co/lqvtcdxrid (0.024)
+@spg (0.024)
+key (0.024)
+https://t.co/vypkcxnqy3 (0.024)
+score (0.024)
+ring (0.024)
+launching (0.024)
+healthy (0.024)
+u.s (0.024)
+littlethings (0.024)
+childhood (0.024)
+offering (0.024)
+scoop (0.024)
+pride (0.024)
+opportunities (0.024)
+serve (0.024)
+turn (0.024)
+wheel (0.024)
+news (0.024)
+nationalcatday (0.024)
+http://t.co/0hsp1ylgtt (0.024)
+fun (0.024)
+@spotify (0.024)
+@jonathangaurano (0.024)
+feel (0.024)
+rush (0.024)
+http://t.co/7lhubvxsja (0.024)
+supporting (0.024)
+went (0.024)
+uberrush (0.024)
+others (0.024)
+@redcross (0.024)
+boston (0.024)
+india (0.024)
+brand (0.024)
+please (0.024)
+global (0.024)
+flu (0.024)
+stop (0.024)
+fans (0.024)
+york (0.024)
+@ywcachicago (0.024)
+perfect (0.024)
+uberhealth (0.024)
+continue (0.024)
+ensure (0.024)
+keys (0.024)
+http://t.co/oesfsgfsyt (0.024)
+friday (0.024)
+sweeter (0.024)
+hope (0.024)
+talk (0.024)
+music (0.024)
+whcoa (0.024)
+shortly (0.024)
+http://t.co/wgmnpunha0 (0.024)
+hit (0.024)
+lives (0.024)
+innovation (0.024)
+gives (0.024)
+meals (0.024)
+countries (0.024)
+copy (0.024)
+vote (0.024)
+always (0.024)
+drunk (0.024)
+healing (0.024)
+good (0.024)
+lunch (0.024)
+economy (0.024)
+@appstore (0.024)
+celebration (0.024)
+latest (0.024)
+person (0.024)
+starpoints (0.024)
+nvneedsuber (0.024)
+http://t.co/5wyfu5l6ez (0.024)
+@eamaddennfl (0.024)
+maddnye (0.024)
+led (0.024)
+year's (0.024)
+stories (0.024)
+june (0.024)
+beijing20 (0.024)
+http://t.co/z1fpy0utxr (0.024)
+incredible (0.024)
+reliable (0.024)
+hosting (0.024)
+deaf (0.024)
+dc (0.024)
+ontheroad (0.024)
+seeing (0.024)
+ubers (0.024)
+ultimate (0.024)
+questions (0.024)
+@kygomusic (0.024)
+requesting (0.024)
+http://t.co/6ybphiswoa (0.024)
+ht (0.024)
+hk (0.024)
+http://t.co/27jst19fm4 (0.024)
+@mstainbrook40 (0.024)
+local (0.024)
+thrilled (0.024)
+veteran (0.024)
+@americanexpress (0.024)
+part (0.024)
+catch (0.024)
+tip (0.024)
+uber's (0.024)
+@awwwards (0.024)
+launch (0.024)
+shot (0.024)
+apps (0.024)
+instagram (0.024)
+chance (0.016)
+florida (0.016)
+http://t.co/5wyfu53vgp (0.016)
+coolest (0.016)
+3pm (0.016)
+biggest (0.016)
+guidelines (0.016)
+nfl (0.016)
+ottawa (0.016)
+labor (0.016)
+moves (0.016)
+@chelseafc (0.016)
+jam (0.016)
+@girlswhocode (0.016)
+luck (0.016)
+yesterday (0.016)
+far (0.016)
+country (0.016)
+op-ed (0.016)
+discounted (0.016)
+connect (0.016)
+nap (0.016)
+http://t.co/xvdyp665s9 (0.016)
+http://t.co/9xyt6yrmid (0.016)
+tonight's (0.016)
+openforbusiness (0.016)
+hello (0.016)
+ding (0.016)
+female (0.016)
+@red (0.016)
+job (0.016)
+uberpuppybowl (0.016)
+@xavieruniv (0.016)
+europe (0.016)
+http://t.co/3vwvkrd3dz (0.016)
+rolling (0.016)
+http://t.co/ui4phf1oq3 (0.016)
+single (0.016)
+newest (0.016)
+on-demand (0.016)
+announcing (0.016)
+@britneyspears (0.016)
+uberforbusiness (0.016)
+schedule (0.016)
+lorie (0.016)
+sugar (0.016)
+hide (0.016)
+drink (0.016)
+california (0.016)
+http://t.co/gwwjmetytd (0.016)
+run (0.016)
+adventure (0.016)
+https (0.016)
+matt (0.016)
+viva (0.016)
+uberlunch (0.016)
+demand (0.016)
+hand-delivered (0.016)
+case (0.016)
+teacher (0.016)
+delivered (0.016)
+high (0.016)
+zero (0.016)
+teamed (0.016)
+@ft (0.016)
+endpoint (0.016)
+sat (0.016)
+stars (0.016)
+travelers (0.016)
+culture (0.016)
+link (0.016)
+watched (0.016)
+ohio (0.016)
+starting (0.016)
+mind (0.016)
+options (0.016)
+corner (0.016)
+http://t.co/vbrmrgz0rq (0.016)
+4thofjuly (0.016)
+hear (0.016)
+dream (0.016)
+surprising (0.016)
+policy (0.016)
+senior (0.016)
+glaces (0.016)
+stats (0.016)
+owning (0.016)
+state (0.016)
+experiencing (0.016)
+crunchies (0.016)
+students (0.016)
+century (0.016)
+special (0.016)
+benefit (0.016)
+13k (0.016)
+began (0.016)
+companies (0.016)
+cleaner (0.016)
+view (0.016)
+crashes (0.016)
+joining (0.016)
+http://t.co/qvd3rdnkqg (0.016)
+http://t.co/xxr8nifxag (0.016)
+uberblack (0.016)
+mike (0.016)
+facts (0.016)
+http://t.co/zk1o2hh46i (0.016)
+edith (0.016)
+better (0.016)
+thing (0.016)
+5millionmeals (0.016)
+set (0.016)
+sea (0.016)
+message (0.016)
+mission (0.016)
+parking (0.016)
+roughly (0.016)
+ncarolina (0.016)
+deliver (0.016)
+heart (0.016)
+guaranteed (0.016)
+gas (0.016)
+nevada (0.016)
+delivery (0.016)
+http://t.co/c59zvsue69 (0.016)
+indiana (0.016)
+moment (0.016)
+cheaper (0.016)
+counsel (0.016)
+http://t.co/1kcwxzkax8 (0.016)
+cause (0.016)
+http://t.co/tsyoomk9dj (0.016)
+sky (0.016)
+http://t.co/hj8tjpvymq (0.016)
+shanghai (0.016)
+marrero (0.016)
+first-of-its-kind (0.016)
+favorites (0.016)
+statement (0.016)
+partner-drivers (0.016)
+real (0.016)
+able (0.016)
+receive (0.016)
+growing (0.016)
+dropoff (0.016)
+outreach (0.016)
+found (0.016)
+http://t.co/1qsghkhwda (0.016)
+hand-deliver (0.016)
+monster (0.016)
+honor (0.016)
+available (0.016)
+split (0.016)
+kitty (0.016)
+ubergiving (0.016)
+later (0.016)
+boss (0.016)
+http://t.co/h0l3lmu2pk (0.016)
+agree (0.016)
+5x (0.016)
+21st (0.016)
+dreams (0.016)
+@aspca (0.016)
+result (0.016)
+complete (0.016)
+latam (0.016)
+operations (0.016)
+brief (0.016)
+cover (0.016)
+watching (0.016)
+table (0.016)
+position (0.016)
+ground (0.016)
+wanted (0.016)
+ruff (0.016)
+access (0.016)
+fall (0.016)
+users (0.016)
+alcohol-related (0.016)
+@instagram (0.016)
+danielle (0.016)
+directly (0.016)
+celebrated (0.016)
+http://t.co/c9cix8xhhu (0.016)
+countdown (0.016)
+winning (0.016)
+rest (0.016)
+lovewins (0.016)
+@xbox (0.016)
+coast (0.016)
+fit (0.016)
+snaps (0.016)
+@animalplanet (0.016)
+@pedramkeyani (0.016)
+families (0.016)
+safety (0.016)
+party (0.016)
+joined (0.016)
+drove (0.016)
+scenes (0.016)
+side (0.016)
+hour (0.016)
+morning (0.016)
+screening (0.016)
+cardholders (0.016)
+drinking (0.016)
+cruise (0.016)
+@wunderman (0.016)
+cream (0.016)
+named (0.016)
+http://t.co/6hk10rfgn7 (0.016)
+build2015 (0.016)
+nycpride2015 (0.016)
+patience (0.016)
+engineers (0.016)
+reason (0.016)
+hey (0.016)
+awesome (0.016)
+86aids (0.016)
+https://t (0.016)
+pledge (0.016)
+spouses (0.016)
+announce (0.016)
+savings (0.016)
+polls (0.016)
+bcn (0.016)
+beautiful (0.016)
+pdx (0.016)
+begun (0.016)
+@gameofthrones (0.016)
+reminders (0.016)
+uberturns5 (0.016)
+interviewing (0.016)
+empower (0.016)
+arrive (0.016)
+winter (0.016)
+streets (0.016)
+east (0.016)
+past (0.016)
+pin (0.016)
+tips (0.016)
+also (0.016)
+por (0.016)
+yellow (0.016)
+http://t.co/htr8xvjqbw (0.016)
+blood (0.016)
+ppl (0.016)
+surprise (0.016)
+taxi (0.016)
+co2 (0.016)
+designed (0.016)
+come (0.016)
+seen (0.016)
+yrs (0.016)
+chicago (0.016)
+http://t.co/g9curhzjax (0.016)
+difference (0.016)
+innovative (0.016)
+pts (0.016)
+cat (0.016)
+cap (0.016)
+accounts (0.016)
+percentage (0.016)
+ordered (0.016)
+fireworks (0.016)
+house (0.016)
+beyond (0.016)
+avoid (0.016)
+income (0.016)
+focus (0.016)
+platform (0.016)
+http://t.co/t1hmm2jvgm (0.016)
+goal (0.016)
+millions (0.016)
+les (0.016)
+contribute (0.016)
+phone (0.016)
+mother's (0.016)
+introduce (0.016)
+resident (0.016)
+saturday (0.016)
+goes (0.016)
+india's (0.016)
+http://t.co/6lq96xw9fp (0.016)
+match (0.016)
+http://t.co/1ckdbzoc9v (0.016)
+http://t.co/bpy6wxgvdx (0.016)
+drunk-driving (0.016)
+started (0.016)
+lie (0.016)
+ride-sharing (0.016)
+http://t.co/t7bbgjpssn (0.016)
+hb (0.016)
+gabriel (0.016)
+http://t.co/w1vp4olart (0.016)
+eat (0.016)
+df (0.016)
+leave (0.016)
+map (0.016)
+left (0.016)
+may (0.016)
+exceptional (0.016)
+ago (0.016)
+cuddle (0.016)
+long (0.016)
+choosing (0.016)
+thursday (0.016)
+likely (0.016)
+forces (0.016)
+cs (0.016)
+co (0.016)
+marcus (0.016)
+mobile (0.016)
+headed (0.016)
+hands (0.016)
+ice (0.016)
+behind-the-scenes (0.016)
+http://t.co/ug31kmeqes (0.016)
+http://t.c (0.016)
+nationwide (0.016)
+button (0.016)
+ubercargo (0.016)
+@uberuk (0.016)
+done (0.016)
+board (0.016)
+lu (0.016)
+inspiring (0.016)
+delicious (0.016)
+nairobi (0.016)
+route (0.016)
+players (0.016)
+technology (0.016)
+sometimes (0.016)
+challenges (0.016)
+http://t.co/exdvzr43yz (0.016)
+hq (0.016)
+improve (0.016)
+playlist (0.016)
+extend (0.016)
+spend (0.016)
+two (0.016)
+http://t.co/gfbabadb0v (0.016)
+hackathons (0.016)
+mom (0.016)
+independence (0.016)
+events (0.016)
+simple (0.016)
+running (0.016)
+easy (0.016)
+numbers (0.016)
+earned (0.016)
+initiative (0.016)
+philadelphia (0.016)
+field (0.016)
+kick (0.016)
+eligible (0.016)
+htt (0.016)
+tickets (0.016)
+@austingeidt (0.016)
+delhi (0.016)
+sb49 (0.016)
+globe (0.016)
+in-app (0.016)
+http://t.co/dpabsujrwo (0.016)
+success (0.016)
+relax (0.016)
+test (0.016)
+open (0.016)
+http://t.co/pxfd52ypaj (0.016)
+000+ (0.016)
+record (0.016)
+boost (0.016)
+ask (0.016)
+might (0.016)
+kind (0.016)
+typical (0.016)
+http://t.co/momuemexvk (0.016)
+bike (0.016)
+unsuspecting (0.016)
+min (0.016)
+little (0.016)
+signing (0.016)
+power (0.016)
+talented (0.016)
+@martingarrix (0.016)
+atx (0.016)
+@aboveandbeyond (0.016)
+rideofthrones (0.016)
+secret (0.016)
+summer (0.016)
+https://t.co/2ivif4zmvb (0.008)
+https://t.co/upbjp9tg5d (0.008)
+podemos (0.008)
+https://t.co/bledckqtpj (0.008)
+http://t.co/ml0wur2re2 (0.008)
+http://t.co/k0xghzhntj (0.008)
+sanjay (0.008)
+prêtes (0.008)
+bedankt (0.008)
+compete (0.008)
+passengers (0.008)
+roll (0.008)
+schooled (0.008)
+movement (0.008)
+advanced (0.008)
+jew (0.008)
+https://t.co/9xtoalazzj (0.008)
+milspouse (0.008)
+trick (0.008)
+https://t.co/ezmhfizjrx (0.008)
+generation (0.008)
+screaming (0.008)
+portland (0.008)
+http://t.co/badcwy5dwy (0.008)
+http://t.co/y5eybyy1qb (0.008)
+soundtrack (0.008)
+http://t.co/r9uktnmbyy (0.008)
+european (0.008)
+touch (0.008)
+https://t.co/lb2ed2p4vd (0.008)
+quality (0.008)
+http://t.co/qvjetf7jd8 (0.008)
+http://t.co/lg6grk16af (0.008)
+http://t.co/uspofkxcka (0.008)
+wherever (0.008)
+d’angelo (0.008)
+steady (0.008)
+2:30am (0.008)
+rev (0.008)
+http://t.co/ow32nis3tq (0.008)
+http://t.co/gtcx1nbfq3 (0.008)
+madd (0.008)
+https://t.co/e (0.008)
+globally (0.008)
+xavier (0.008)
+relief (0.008)
+https://t.co/l9nuj83jic (0.008)
+http://t.co/6hh9dbwdzi (0.008)
+kauai (0.008)
+roundtable (0.008)
+http://t.co/7bi6lwddqe (0.008)
+http://t.co/hzoreechtw (0.008)
+guard (0.008)
+http://t.co/hdot58ts6b (0.008)
+https://t.co/lipdpdkxq7 (0.008)
+http://t.co/clupub9bt7 (0.008)
+experts (0.008)
+http://t.co/kv6mtddeks (0.008)
+sweden (0.008)
+http://t.co/htrushchqg (0.008)
+melbourne (0.008)
+https://t.co/sbcpqmqlfs (0.008)
+@bryanboy (0.008)
+http://t.co/efla9sgyaf (0.008)
+brazil (0.008)
+including (0.008)
+http://t.co/oieg (0.008)
+guess (0.008)
+http://t.co/4whdqxyzkx (0.008)
+baller (0.008)
+resources (0.008)
+https://t.co/lqaxy03kmu (0.008)
+https://t.co/vtdrypbepq (0.008)
+http://t.co/djtsmnby63 (0.008)
+forbes (0.008)
+http://t.co/rmtcrp4fvl (0.008)
+basis (0.008)
+drop (0.008)
+regulations (0.008)
+jono (0.008)
+took (0.008)
+fortunetech (0.008)
+@amyzagroba (0.008)
+http://t.co/gattdctknb (0.008)
+http://t.co/wyuxxrfe0o (0.008)
+officiated (0.008)
+civilian (0.008)
+http://t.co/z7votape5a (0.008)
+trudy (0.008)
+https://t.co/9rtixnbgt4 (0.008)
+kicked (0.008)
+commu (0.008)
+karaoke (0.008)
+pumpkin (0.008)
+https://t.co/nnirtk4jzh (0.008)
+jay (0.008)
+fan (0.008)
+much (0.008)
+involved (0.008)
+@noonpacific (0.008)
+http://t.co/jhpbnk1mwq (0.008)
+clublife (0.008)
+often (0.008)
+http://t.co/2n0ddwmid0 (0.008)
+room (0.008)
+redcr (0.008)
+grab (0.008)
+distractions (0.008)
+grad (0.008)
+http://t.co/49vqqiupkg (0.008)
+@lenosgarage (0.008)
+fridays (0.008)
+http://t.co/vhe (0.008)
+http://t.co/xexyj90fat (0.008)
+http://t.co/pd5gteqqzd (0.008)
+http://t.co/1jflfjdlkt (0.008)
+glen (0.008)
+@meghanmccain (0.008)
+possible (0.008)
+uppereastside (0.008)
+supplement (0.008)
+fuel (0.008)
+nodejs (0.008)
+reached (0.008)
+https://t.co/njvfcsjx2k (0.008)
+http://t.co/jlnjpr (0.008)
+http://t.co/asasadknnv (0.008)
+http://t.co/jldfe0lcux (0.008)
+layer (0.008)
+@studentvets (0.008)
+highlights (0.008)
+@stubhub's (0.008)
+dine (0.008)
+http://t.co/vy2hjgggp5 (0.008)
+ran (0.008)
+@arcelormittal (0.008)
+rome (0.008)
+shelters (0.008)
+anyone (0.008)
+peace (0.008)
+un70 (0.008)
+drivetothrive (0.008)
+adding (0.008)
+http://t.co/ivssawdgzt (0.008)
+@nfl (0.008)
+http://t.co/kc2pm6vk4p (0.008)
+niall (0.008)
+600m (0.008)
+limiting (0.008)
+social (0.008)
+visually (0.008)
+tolerance (0.008)
+http://t.co/vvmcfis3us (0.008)
+http://t.co/owcydnq08e (0.008)
+paywall (0.008)
+http://t.co/7r7ogm2wu9 (0.008)
+@oakland (0.008)
+https://t.co/ybssxqbime (0.008)
+http://t.co/hhedqdskpv (0.008)
+xmas (0.008)
+https://t.co/lvlfmmpzbm (0.008)
+http://t.co/3nj1aodins (0.008)
+cullen (0.008)
+undercover (0.008)
+echoes (0.008)
+http://t.co/cn3itlayrb (0.008)
+https://t.co/tumw0dwlfk (0.008)
+@jerryazumah (0.008)
+voted (0.008)
+@svbizjournal (0.008)
+is...i (0.008)
+starpoint (0.008)
+pick-up (0.008)
+vehicle (0.008)
+thought (0.008)
+space (0.008)
+@deblasionyc's (0.008)
+http://t.co/55lus5q6tl (0.008)
+distance (0.008)
+boys (0.008)
+rather (0.008)
+https://t.co/m1miikfv6v (0.008)
+athlete (0.008)
+http://t.co/rwmjizbk4w (0.008)
+marketing (0.008)
+fangs (0.008)
+https://t.co/j6 (0.008)
+nvne (0.008)
+sending (0.008)
+square (0.008)
+gameday (0.008)
+truly (0.008)
+5/2 (0.008)
+http://t.co/u3u8n5shmd (0.008)
+monday (0.008)
+http://t.co/knbj45ygqy (0.008)
+http://t.co/nsmwhqzvd5 (0.008)
+http://t.co/7efgzre7la (0.008)
+highest-rated (0.008)
+12am (0.008)
+action (0.008)
+focused (0.008)
+hire (0.008)
+seriously (0.008)
+dakota (0.008)
+hero (0.008)
+valentines (0.008)
+clothes (0.008)
+http://t.co/qq56asqutk (0.008)
+https://t.co/d1 (0.008)
+http://t.co/aubpfrojeu (0.008)
+phuket (0.008)
+driver's (0.008)
+applelive (0.008)
+http://t.co/f3cjvljro1 (0.008)
+http://t.co/qj6dvdswrc (0.008)
+http://t.co/p1xwhapbpc (0.008)
+crushed (0.008)
+gently (0.008)
+@madeleine (0.008)
+tgif (0.008)
+tanks (0.008)
+pesos (0.008)
+security (0.008)
+everyone's (0.008)
+http://t.co/l8axiow3bq (0.008)
+http://t.co/zisy9csrxa (0.008)
+super (0.008)
+http://t.co/nkgkxzio (0.008)
+http://t.co/mmvmlccdni (0.008)
+http://t.co/v4muwfwcad (0.008)
+http://t.co/nlsox8xjok (0.008)
+gorgeous (0.008)
+12:30 (0.008)
+major (0.008)
+tonight’s (0.008)
+https://t.co/dycc1hqi0c (0.008)
+https://t.co/otwcre7d6n (0.008)
+spooky (0.008)
+slowing (0.008)
+offer (0.008)
+paradise (0.008)
+daily (0.008)
+lenocnbc (0.008)
+meow (0.008)
+rid (0.008)
+amber (0.008)
+http://t.co/pbf5eqrryx (0.008)
+deepening (0.008)
+http://t.co/bcl (0.008)
+spread (0.008)
+http://t.co/ivmm6zhwil (0.008)
+http://t.co/htfubwoshc (0.008)
+http://t.co/kpckh1qatu (0.008)
+nye (0.008)
+http://t.co/tiqtohc9qv (0.008)
+award/private (0.008)
+http://t.co/p7iuoufwlj (0.008)
+http://t.co/qbii4cpcgx (0.008)
+http://t.co/brl8rbvg7v (0.008)
+exactly (0.008)
+http://t.co/f8pjgifuth (0.008)
+permanently (0.008)
+designers (0.008)
+http://t.co/ev5cq0qcxt (0.008)
+http://t.co/ad4ogbhtnz (0.008)
+powering (0.008)
+worldwide (0.008)
+everythingis4 (0.008)
+http://t.co/ctppmrc4bh (0.008)
+miami (0.008)
+soul (0.008)
+@maddonline’s (0.008)
+calls (0.008)
+https://t.co/iw34gb6yaz (0.008)
+http://t.co/srdv0xxhpg (0.008)
+drafted (0.008)
+http://t.co/gl7hqhrcqa (0.008)
+system (0.008)
+nominated (0.008)
+travels (0.008)
+https://t.co/jxh6x4v8xa (0.008)
+cheap (0.008)
+http://t.co/xzs1ugg3jq (0.008)
+http://t.co/oahacd3jdd (0.008)
+buddy (0.008)
+dreaming (0.008)
+uberxl (0.008)
+@uber's (0.008)
+expensive (0.008)
+platforms (0.008)
+dtphx (0.008)
+iron (0.008)
+http://t.co/sy6kujjsrk (0.008)
+https://t.co/nylovapcdw (0.008)
+http://t.co/fsiwxgqw00 (0.008)
+esteban (0.008)
+graduate (0.008)
+http://t.co/vqkvcpusyu (0.008)
+http://t.co/auk1vvey9a (0.008)
+trust (0.008)
+http://t.co/ejeip2ghbt (0.008)
+rates (0.008)
+http://t.co/xktexhqtxt (0.008)
+@aarp’s (0.008)
+young (0.008)
+http://t.co/hfqhpbnzoc (0.008)
+picking (0.008)
+picked (0.008)
+assignment (0.008)
+http://t.co/0vm1jhjp1h (0.008)
+mindsets (0.008)
+basket (0.008)
+vettechtrek (0.008)
+applepay (0.008)
+quickly (0.008)
+@taskandpurpose (0.008)
+baggage (0.008)
+vertical (0.008)
+ghouls (0.008)
+become (0.008)
+http://t.co/fdp7mprzlt (0.008)
+http://t.co/5tbf92dihc (0.008)
+http://t.co/xwkugtqxpz (0.008)
+bangkok (0.008)
+loses (0.008)
+first-ever (0.008)
+champ (0.008)
+win-win (0.008)
+glitter (0.008)
+presented (0.008)
+scary (0.008)
+ordinance (0.008)
+exclusively (0.008)
+http://t.co/ywdiu0rjmv (0.008)
+@livenation (0.008)
+http://t.co/nlewpse6kh (0.008)
+@pauleyp (0.008)
+@bluestarfamily (0.008)
+recognizing (0.008)
+http://t.co/ojo8epm7nl (0.008)
+http://t.co/vjrzbntmtr (0.008)
+uberevents (0.008)
+http://t.co/4uyq3lq36w (0.008)
+http://t.co/rgvy8orpwx (0.008)
+http://t.co/zjequkjod7 (0.008)
+cash (0.008)
+several (0.008)
+http://t.co/g7gm0mucgj (0.008)
+fluff (0.008)
+http://t.co/cgy65 (0.008)
+battles (0.008)
+early (0.008)
+http://t.co/nyp (0.008)
+song (0.008)
+https://t.co/vdmsjr8maa (0.008)
+replay (0.008)
+gallon (0.008)
+broomsticks (0.008)
+agrees (0.008)
+question (0.008)
+http://t.co/sopeqooehn (0.008)
+http://t.co/gktq4jvtca (0.008)
+https://t.co/hl124ccqbs (0.008)
+http://t.co/vnjcdodpnh (0.008)
+catness (0.008)
+@theskimm (0.008)
+engineer (0.008)
+http://t.co/pjsszuqqvf (0.008)
+helped (0.008)
+@nycgov (0.008)
+general (0.008)
+@taylorswift13 (0.008)
+esa (0.008)
+http://t.co/lpzunhwj6l (0.008)
+ferry (0.008)
+teamnkh (0.008)
+sont (0.008)
+givingtuesday (0.008)
+sundance (0.008)
+https://t.co/agz0j4orbd (0.008)
+@asaslasvegas (0.008)
+@rethinkcanada (0.008)
+http://t.co/2bbovsyern (0.008)
+http://t.co/lu0hru1mhg (0.008)
+@reshmasaujani (0.008)
+everything (0.008)
+feels (0.008)
+http://t.co/pvcgcypz (0.008)
+sam (0.008)
+info (0.008)
+http://t.co/eglrjapw1m (0.008)
+http://t.co/zjqrbjnjvp (0.008)
+fargo (0.008)
+http://t.co/epy7y2vdm7 (0.008)
+http://t.co/zlysvtxkld (0.008)
+nevertooearlyforsweets (0.008)
+industry (0.008)
+https://t.co/jmwh7es5z0 (0.008)
+tissues (0.008)
+fares (0.008)
+http://t.co/xskbpdlkl9 (0.008)
+uberenglish (0.008)
+singing (0.008)
+@scott (0.008)
+@cnbc (0.008)
+packs (0.008)
+@cannes (0.008)
+saving (0.008)
+http://t.co/pa5chy1hlo (0.008)
+outside (0.008)
+cape (0.008)
+madrid (0.008)
+euappeconomy (0.008)
+http://t.co/0kjzntf4zs (0.008)
+http://t.co/ran6sawqpc (0.008)
+http://t.co/wo6rlofuw8 (0.008)
+christy (0.008)
+year’s (0.008)
+http://t.co/q29hytgwrr (0.008)
+pile (0.008)
+@rick (0.008)
+@abethea41 (0.008)
+resolve (0.008)
+@dougducey (0.008)
+uberchopper (0.008)
+legislation (0.008)
+http://t.co/9ccbd9i7ic (0.008)
+donations (0.008)
+tackle (0.008)
+https://t.co/2xnwhf5p0n (0.008)
+http://t.co/woyoeyf25d (0.008)
+@ubereats (0.008)
+successfully (0.008)
+boldness (0.008)
+http://t.co/ldehllbavk (0.008)
+https://t.co/duivimik7a (0.008)
+tour (0.008)
+equitable (0.008)
+beliefs (0.008)
+uberadvent (0.008)
+http://t.co/nf1fnen5zw (0.008)
+hecho (0.008)
+beach (0.008)
+mash (0.008)
+honestly (0.008)
+transit (0.008)
+awry (0.008)
+mass (0.008)
+colombia (0.008)
+@marthakelly (0.008)
+http://t.co/n90clsznxq (0.008)
+http://t.co/jmwh7es5z0 (0.008)
+head (0.008)
+http://t.co/ed0gqjfdzu (0.008)
+http://t.co/qj096zgs5h (0.008)
+outage (0.008)
+throughout (0.008)
+mark (0.008)
+son's (0.008)
+comes (0.008)
+wants (0.008)
+knows (0.008)
+https://t.co/9iitbwzd7s (0.008)
+http://t.co/xiiioosj8b (0.008)
+http://t.co/dyrb8vrwua (0.008)
+@nikkihaley (0.008)
+@hardwina (0.008)
+https://t.co/djafp0txii (0.008)
+http://t.co/77v7mwkylq (0.008)
+ces2015 (0.008)
+decide (0.008)
+increased (0.008)
+breaks (0.008)
+issue (0.008)
+ruling (0.008)
+magazine (0.008)
+another (0.008)
+wow (0.008)
+chilling (0.008)
+witches (0.008)
+finding (0.008)
+premiere (0.008)
+won (0.008)
+easiest (0.008)
+dogsofuber (0.008)
+inch (0.008)
+http://t.co/zb7 (0.008)
+addition (0.008)
+https://t.co/fbicev0yxu (0.008)
+jams (0.008)
+seoul (0.008)
+facing (0.008)
+turkey (0.008)
+http://t.co/nc4hblq5tt (0.008)
+group (0.008)
+average (0.008)
+cotidiana (0.008)
+http://t.co/j6syr9zmwu (0.008)
+total (0.008)
+http://t.co/6lq96xnl3z (0.008)
+freedom (0.008)
+ft's (0.008)
+neel (0.008)
+higher (0.008)
+kia (0.008)
+featured (0.008)
+visit (0.008)
+kid (0.008)
+missing (0.008)
+takemethere (0.008)
+13h (0.008)
+2014's (0.008)
+@billdeblasio (0.008)
+black (0.008)
+kit (0.008)
+asked (0.008)
+ubergo (0.008)
+entrepreneurs (0.008)
+http://t.co/30xwnazauj (0.008)
+http://t.co/sewvu7mxmk (0.008)
+http://t.co/5f4zpobotc (0.008)
+purrsonal (0.008)
+partying (0.008)
+http://t.co/ijdwrhvfuk (0.008)
+deserve (0.008)
+http://t.co/rqhrd6tbmk (0.008)
+http://t.co/s1qt8cfdre (0.008)
+ceremonies (0.008)
+ubertovote (0.008)
+http://t.co/kxmy87pjw2 (0.008)
+ksleg (0.008)
+disguised (0.008)
+http://t.co/ydyuu6abma (0.008)
+http://t.co/18zqqdlzw2 (0.008)
+http://t.co/pehue8qxcq (0.008)
+traveled (0.008)
+trouble (0.008)
+@certify (0.008)
+wheelchair (0.008)
+http://t.co/i9wnfifijh (0.008)
+france (0.008)
+https://t.co/daghlaprei (0.008)
+announcement (0.008)
+converted (0.008)
+glimpse (0.008)
+web (0.008)
+airtel (0.008)
+boat (0.008)
+history (0.008)
+http://t.co/lrnlqxugbv (0.008)
+sip (0.008)
+background (0.008)
+nothing (0.008)
+http://t.co/464na7 (0.008)
+http://t.co/memtr1rhii (0.008)
+rocking (0.008)
+http://t.co/iqgnolwtly (0.008)
+http://t.co/7tdembxk0v (0.008)
+ofentse (0.008)
+enough (0.008)
+europe’s (0.008)
+close (0.008)
+http://t.co/aw6jiwhp7m (0.008)
+http://t.co/rbzqiefjnf (0.008)
+opinion (0.008)
+paying (0.008)
+http://t.co/1orqlemsvw (0.008)
+http://t.co/oj6ugezzrg (0.008)
+o'connor (0.008)
+uberwav (0.008)
+enhancing (0.008)
+http://t.co/i2vs3jhypt (0.008)
+ger (0.008)
+http://t.co/kw0euyldcw (0.008)
+http://t.co/vjycpaywxb (0.008)
+habernos (0.008)
+2pm (0.008)
+http://t.co/z0wgfvfglv (0.008)
+@susanguidry (0.008)
+switching (0.008)
+http://t.co/sh (0.008)
+tasty (0.008)
+oral (0.008)
+kalanick (0.008)
+tooth (0.008)
+10k (0.008)
+http://t.co/bfdu5spyf8 (0.008)
+saying (0.008)
+merry (0.008)
+http://t.co/59bprhviev (0.008)
+@msjackiecruz (0.008)
+safely (0.008)
+area (0.008)
+http://t.co/bvywkdjncx (0.008)
+wake (0.008)
+artist (0.008)
+types (0.008)
+employee (0.008)
+http://t.co/ydebb6ossk (0.008)
+vida (0.008)
+five (0.008)
+happening (0.008)
+http://t.co/oozv7sa08c (0.008)
+http://t.co/kxhuxayp9v (0.008)
+still (0.008)
+http://t.co/vszctppegn (0.008)
+guwahati (0.008)
+@mxpf (0.008)
+earthday (0.008)
+recap (0.008)
+http://t.co/dqifx8l9rm (0.008)
+throne (0.008)
+heartfelt (0.008)
+http://t.co/sl4vu9u6be (0.008)
+stand (0.008)
+arrival (0.008)
+https://t.co/gi42fprpkv (0.008)
+lions (0.008)
+chez (0.008)
+concert (0.008)
+fell (0.008)
+manager (0.008)
+recipe (0.008)
+stations (0.008)
+6th (0.008)
+thailand (0.008)
+nobody’s (0.008)
+court (0.008)
+http://t.co/rwtofksnnt (0.008)
+stealing (0.008)
+http://t.co/vsou3tvdh0 (0.008)
+birds (0.008)
+https://t.co/mcsc8stztv (0.008)
+http://t.co/pcgrwfk (0.008)
+@houstontexans (0.008)
+operation (0.008)
+spg (0.008)
+derulo (0.008)
+http://t.co/1jr6dlhk6o (0.008)
+collab (0.008)
+embrace (0.008)
+@uberdata (0.008)
+creating (0.008)
+lesson (0.008)
+programs (0.008)
+son (0.008)
+loving (0.008)
+accountable (0.008)
+flexible (0.008)
+http://t.co/zfakttdol1 (0.008)
+funds (0.008)
+sitting (0.008)
+@theweeknd (0.008)
+carolina (0.008)
+gal (0.008)
+2cv (0.008)
+http://t.co/nsoounsxis (0.008)
+gap (0.008)
+http://t.co/koiiqryeyi (0.008)
+creation (0.008)
+experiences (0.008)
+https://t.co/pqduocpbf0 (0.008)
+http://t.co/tkbvrzeehn (0.008)
+drivingdavid (0.008)
+closet (0.008)
+protect (0.008)
+closer (0.008)
+http://t.co/iz4fqdd8bn (0.008)
+https://t.co/akxdllwxv1 (0.008)
+heard (0.008)
+allowing (0.008)
+http://t.co/a7kqekrudb (0.008)
+aundre's (0.008)
+zealand (0.008)
+pictured (0.008)
+ilooklikeanengineer (0.008)
+blues (0.008)
+cuts (0.008)
+@tiesto (0.008)
+http://t.co/ccyb4fn9ot (0.008)
+http://t.co/ngko0fx0df (0.008)
+flight (0.008)
+@deadmau5 (0.008)
+hunter (0.008)
+15th (0.008)
+http://t.co/musbqdjiqe (0.008)
+tugging (0.008)
+http://t.co/lsnjjyw5y5 (0.008)
+http://t.co/v9cqnqduna (0.008)
+fayetteville (0.008)
+within (0.008)
+backstage (0.008)
+design (0.008)
+https://t.co/mnw0ravztv (0.008)
+count (0.008)
+second (0.008)
+campo (0.008)
+location (0.008)
+fix...now (0.008)
+http://t.co/kofgsdrxzx (0.008)
+1million (0.008)
+chat (0.008)
+http://t.co/ua4ihc8irs (0.008)
+mice (0.008)
+barriers (0.008)
+looks (0.008)
+level (0.008)
+http://t.co/gujxhnojta (0.008)
+results (0.008)
+http://t.co/bvk0utlwpc (0.008)
+someone (0.008)
+http://t.co/agozlfcjhj (0.008)
+developing (0.008)
+https://t.co/wrlb8ljhd0 (0.008)
+http://t.co/nwjmr (0.008)
+18h (0.008)
+http://t.co/uzrne0bfaz (0.008)
+academy (0.008)
+copies (0.008)
+issues (0.008)
+called (0.008)
+@katiecouric's (0.008)
+included (0.008)
+release (0.008)
+stick (0.008)
+http://t.co/6ts6hrseyc (0.008)
+becomes (0.008)
+https://t.co/18fbfhavol (0.008)
+wav (0.008)
+protecting (0.008)
+cyber (0.008)
+stage (0.008)
+army (0.008)
+steve (0.008)
+http://t.co/q6hseimptf (0.008)
+http://t.co/cxe8r9jtt4 (0.008)
+rise (0.008)
+accessible (0.008)
+seats (0.008)
+drives (0.008)
+@microsoft (0.008)
+@mayorlandrieu (0.008)
+@souljaboy (0.008)
+tributes (0.008)
+@carnegiemellon (0.008)
+standard (0.008)
+http://t.co/z0kjjaeh3q (0.008)
+important (0.008)
+worst (0.008)
+@chase (0.008)
+print (0.008)
+https://t.co/an60tja52u (0.008)
+uniting (0.008)
+http://t.co/nmterwtxtx (0.008)
+@abc (0.008)
+hidden (0.008)
+24/7 (0.008)
+http://t.co/9yjtwna93l (0.008)
+honors (0.008)
+sleigh (0.008)
+http://t.co/mggjhhzioa (0.008)
+received (0.008)
+http://t.co/fdnljabnb9 (0.008)
+passes (0.008)
+http://t.co/zfwz5mhe07 (0.008)
+turning (0.008)
+donates (0.008)
+inspiration (0.008)
+http://t.co/qoizbikgop (0.008)
+forward (0.008)
+http://t.co/dhvwwvicjr (0.008)
+http://t.co/bvp1amqvam (0.008)
+http://t.co/qsr6ojxtnz (0.008)
+http://t.co/el8mkfhvvr (0.008)
+http://t.co/0rqpesbatn (0.008)
+http://t.co/fa8w (0.008)
+happen (0.008)
+piece (0.008)
+http://t.co/rdlm4i9p (0.008)
+http://t.co/htkl0xcbwt (0.008)
+@dannijo (0.008)
+@rondarousey (0.008)
+ends (0.008)
+francis (0.008)
+applewatch (0.008)
+roots (0.008)
+neighborhood (0.008)
+regs (0.008)
+connaught (0.008)
+http://t.co/9bktfythfb (0.008)
+price (0.008)
+1k (0.008)
+1m (0.008)
+for-hire (0.008)
+49ers (0.008)
+http://t.co/u0nlpg4agf (0.008)
+warmth (0.008)
+cardenas (0.008)
+http://t.co/gmubjy51uz (0.008)
+http://t.co/7pbkzh4cat (0.008)
+women's (0.008)
+duis (0.008)
+kygo (0.008)
+halloween's (0.008)
+digital (0.008)
+estimate (0.008)
+http://t.co/mdgzeabch1 (0.008)
+https://t.co/wdieo3zvxs (0.008)
+@tbh (0.008)
+smarter (0.008)
+crisis (0.008)
+tabby (0.008)
+http://t.co/ypizacgfsc (0.008)
+surprises (0.008)
+hail (0.008)
+http://t.co/sq78tm70op (0.008)
+factor (0.008)
+cuteness (0.008)
+http://t.co/zqtqjwl8t0 (0.008)
+https://t.co/ybq4exqd9p (0.008)
+blackandwalt (0.008)
+http://t.co/rtgfea11ml (0.008)
+caturday (0.008)
+grocery (0.008)
+salad (0.008)
+http://t.co/rchfzaxexz (0.008)
+oregon (0.008)
+drone (0.008)
+toronto (0.008)
+seize (0.008)
+http://t.co/1tvwubcvlr (0.008)
+album (0.008)
+congestion (0.008)
+employee/year (0.008)
+disruption (0.008)
+served (0.008)
+@bradiejamesgang (0.008)
+http://t.co/smftbhz8qs (0.008)
+gender (0.008)
+http://t.co/zmw2iloohy (0.008)
+hitting (0.008)
+canada (0.008)
+coffee (0.008)
+billion (0.008)
+charged (0.008)
+http://t.co/mbmuudwcv4 (0.008)
+advo-cat (0.008)
+branding (0.008)
+5m (0.008)
+fernando (0.008)
+http://t.co/sytsjl6icb (0.008)
+http://t.co/rresflnjbq (0.008)
+http://t.co/u5iivhxqtu (0.008)
+https://t.co/x5au96usf7 (0.008)
+http://t.co/fy5ckyjjmj (0.008)
+http://t.co/kziotdslhd (0.008)
+https://t.co/qpeylkiah0 (0.008)
+well (0.008)
+engineering (0.008)
+http://t.co/v51bmzrqsx (0.008)
+photography (0.008)
+http://t.co/w45jayaicp (0.008)
+uberchef (0.008)
+http://t.co/wtgwkmeh2r (0.008)
+http://t.co/twezynsxmr (0.008)
+louisville's (0.008)
+http://t.co/7a3kbl1pbt (0.008)
+supply (0.008)
+@tfl (0.008)
+bayless (0.008)
+girls (0.008)
+http://t.co/my11llibig (0.008)
+2x (0.008)
+http://t.co/stgsphekaq (0.008)
+@sfbusinesstimes (0.008)
+gracias (0.008)
+http://t.co/qd5bkcyctm (0.008)
+manhattan (0.008)
+fees (0.008)
+svp (0.008)
+http://t.co/heth6ckrqm (0.008)
+farther (0.008)
+drops (0.008)
+claim (0.008)
+blind (0.008)
+fidi (0.008)
+employees (0.008)
+@levibelnap (0.008)
+http://t.co/tkep (0.008)
+bases (0.008)
+https://t.co/fgbcaxndrj (0.008)
+http://t.co/4mwunaicks (0.008)
+wanderlust (0.008)
+jenny (0.008)
+@sxsw (0.008)
+vip (0.008)
+http://t.co/a0pwnt0qpz (0.008)
+http://t.co/zg1gdyzwuy (0.008)
+@lifereimagined (0.008)
+fluvax (0.008)
+https://t.co/1cqra5tl6m (0.008)
+hopped (0.008)
+speaking (0.008)
+information (0.008)
+http://t.co/0qabafe3f7 (0.008)
+http://t.co/p35vj4ks7k (0.008)
+national (0.008)
+director (0.008)
+shukran (0.008)
+parliament (0.008)
+soldier (0.008)
+http://t.co/nmbruuwcpt (0.008)
+mindblown (0.008)
+@gobiernodf (0.008)
+referendum (0.008)
+@iamjrmartinez (0.008)
+http://t.co/3mwamjwpju (0.008)
+http://t.co/fowzc691dr (0.008)
+@fastcompany (0.008)
+@goarmy (0.008)
+@clutterdiet’s (0.008)
+http://t.co/jphvtdl5pc (0.008)
+pressed (0.008)
+paycheck (0.008)
+coddington (0.008)
+trying (0.008)
+http://t.co/s1gscjc96f (0.008)
+night's (0.008)
+cpus (0.008)
+paneedsuber (0.008)
+capping (0.008)
+fake (0.008)
+simplify (0.008)
+http://t.co/9zf0wbcfy8 (0.008)
+rearview (0.008)
+responsible (0.008)
+luckily (0.008)
+cat's (0.008)
+article (0.008)
+summit (0.008)
+quand (0.008)
+http://t.co/qmvgx5jcgw (0.008)
+@davidplouffe (0.008)
+wish (0.008)
+3yearsinldn (0.008)
+truths (0.008)
+after-school (0.008)
+complimentary (0.008)
+grand (0.008)
+http://t.co/pzynwl0u08 (0.008)
+photographer (0.008)
+@drake (0.008)
+marina (0.008)
+http://t.co/vf47q8e84q (0.008)
+custom (0.008)
+9-5 (0.008)
+@potus (0.008)
+http://t.co/iodz4k6rwj (0.008)
+victims (0.008)
+worn (0.008) [it was below the minShapeSize threshold]
+http://t.co/nfbrxx5ux6 (0.008)
+https://t.co/w1htnqeywc (0.008)
+http://t.co/eyfnic1r28 (0.008)
+https://t.co/jmgklmb5w8 (0.008)
+tune (0.008)
+affordable (0.008)
+http://t.co/um01dnyh1l (0.008)
+window (0.008)
+http://t.co/griqfgb3x7 (0.008)
+@foursquare (0.008)
+beating (0.008)
+word (0.008)
+passing (0.008)
+friend (0.008)
+west (0.008)
+salle (0.008)
+dancing (0.008)
+http://t.co/mood7oyfzx (0.008)
+allow (0.008)
+interests (0.008)
+ftboldness (0.008)
+timeframe (0.008)
+@bostondotcom (0.008)
+backroads (0.008)
+riley (0.008)
+pretty (0.008)
+a.j (0.008)
+fix (0.008)
+offices (0.008)
+@drewbrees (0.008)
+africa (0.008)
+coalition (0.008)
+https://t.co/zwbcqr68dd (0.008)
+@fortunemagazine (0.008)
+spotlighting (0.008)
+wishe5 (0.008)
+purrrfect (0.008)
+wass (0.008) [it was below the minShapeSize threshold]
+publication (0.008)
+cherry (0.008)
+http://t.co/6rndvxqyks (0.008)
+http://t.co/j7lkj2c9l8 (0.008)
+philly (0.008)
+linus (0.008)
+entry (0.008)
+book (0.008)
+la's (0.008)
+https://t.co/7x29xxisrx (0.008)
+anne (0.008) [it was below the minShapeSize threshold]
+livrer (0.008)
+cruising (0.008)
+destinations (0.008)
+http://t.co/cwjxap3k3e (0.008)
+@ronantynan (0.008)
+http://t.co/wkytjm4bxw (0.008)
+@nypd19pct (0.008)
+like...work (0.008)
+parade (0.008)
+created (0.008)
+can't-miss (0.008)
+http://t.co/noephmcotr (0.008)
+http://t.co/c6picjljmz (0.008)
+hungry (0.008)
+vday (0.008)
+video (0.008)
+ubercommute (0.008)
+http://t.co/thtqtde4kd (0.008)
+opened (0.008)
+billy (0.008)
+else (0.008)
+https://t.co/mqcxwrpah0 (0.008)
+host (0.008)
+@nyccouncil (0.008)
+biss (0.008)
+project (0.008)
+trumping (0.008)
+surge (0.008)
+urge (0.008)
+http://t.co/u1jpcezvle (0.008)
+http://t.co/h4dq6zoidz (0.008)
+opening (0.008)
+@exxonmobil (0.008)
+parte (0.008)
+http://t.co/4a4g43opmd (0.008)
+parti (0.008)
+http://t.co/jngrfc6j7t (0.008)
+fave (0.008)
+jason (0.008)
+vet (0.008)
+http://t.co/0bu64vncus (0.008)
+https://t.co/kv66aue6li (0.008)
+recognize (0.008)
+@commbovo (0.008)
+http://t.co/4zo5tz7zcm (0.008)
+http://t.co/1opsbgiozl (0.008)
+impaired (0.008)
+choices (0.008)
+till (0.008)
+hamburg (0.008)
+invest (0.008)
+http://t.co/rl30jwn5sh (0.008)
+http://t.co/gv8adwfcau (0.008)
+public (0.008)
+gratitude (0.008)
+http://t.co/cjtsuu4tdk (0.008)
+bob (0.008)
+kerr (0.008)
+tuquero (0.008)
+http://t.co/x5ort6hq1v (0.008)
+http://t.co/epb7pugkif (0.008)
+time-careers (0.008)
+conquered (0.008)
+hat (0.008)
+valentine's (0.008)
+ornithology (0.008)
+cielo (0.008)
+spokescat (0.008)
+overall (0.008)
+7000+ (0.008)
+hbo (0.008)
+colors (0.008)
+fulfill (0.008)
+http://t.co/ilbunyyidw (0.008)
+georgia (0.008)
+@vanityfair (0.008)
+http://t.co/ica207fzhw (0.008)
+inaugural (0.008)
+items (0.008)
+http://t.co/nhvgqdo4r3 (0.008)
+baxter (0.008)
+http://t.co/n9gr0viryv (0.008)
+http://t.co/bgepp3hv6n (0.008)
+philippines (0.008)
+insurance (0.008)
+van (0.008) [it was below the minShapeSize threshold]
+@govsambrownback (0.008)
+bill (0.008)
+http://t.co/v (0.008)
+reflections (0.008)
+http://t.co/mawnuokr3q (0.008)
+byrd (0.008)
+analysis (0.008)
+3-4 (0.008)
+stayathomemom (0.008)
+meets (0.008) [it was below the minShapeSize threshold]
+ally (0.008)
+aundre (0.008)
+http://t.co/bpibftjrdo (0.008)
+paw (0.008)
+pilot (0.008)
+discounts (0.008)
+buzzing (0.008)
+hawaii (0.008)
+law (0.008)
+000s (0.008)
+anniversary (0.008)
+http://t.co/lioywextj7 (0.008)
+constant (0.008) [it was below the minShapeSize threshold]
+obviously (0.008)
+http://t.co/te3ahiyth8 (0.008)
+scenic (0.008)
+http://t.co/jdmfkq9tbv (0.008)
+bon (0.008)
+http://t.co/ifq22ml7x5 (0.008)
+burrito (0.008)
+source (0.008) [it was below the minShapeSize threshold]
+http://t.co/qoliwjwaxj (0.008)
+http://t.co/fyicpsbz1i (0.008)
+http://t.co/fvl5dbtarp (0.008)
+welcomes (0.008)
+uberengagement (0.008)
+planet5050 (0.008)
+promo (0.008)
+@zomato (0.008)
+http://t.co/f8edlzrt1a (0.008)
+http://t.co/2i5v0stuha (0.008)
+dj-turned-uberx-partner (0.008)
+given (0.008)
+among (0.008)
+touchdown (0.008)
+tweet (0.008) [it was below the minShapeSize threshold]
+ridesharing-friendly (0.008)
+nashik (0.008)
+ubersafe (0.008)
+http://t.co/xsw7egt2zb (0.008)
+http://t.co/7ovaoxni (0.008)
+bag (0.008)
+mexican (0.008)
+career (0.008) [it was below the minShapeSize threshold]
+startup (0.008)
+secretly (0.008)
+lanai (0.008)
+http://t.co/egielorqip (0.008)
+https://t.co/lyhmlqeygn (0.008)
+shoot (0.008)
+bay (0.008)
+decisions (0.008)
+colony (0.008)
+http://t.co/m5iic9ni4a (0.008)
+razón (0.008)
+https://t.co/wy9iibvapm (0.008)
+http://t.co/tll (0.008)
+dolphins (0.008)
+http://t.co/j9h (0.008)
+http://t.co/sbsigtmz9r (0.008)
+compacted (0.008)
+are...our (0.008) [it was below the minShapeSize threshold]
+http://t.co/tbtkj (0.008)
+post-surgery (0.008)
+technology's (0.008)
+clean (0.008)
+alerts (0.008)
+hiring (0.008)
+http://t.co/ixck8netxp (0.008)
+english-speaking (0.008)
+http://t.co/nwvqx6psqd (0.008)
+listen (0.008)
+http://t.co/djm24ap7n5 (0.008)
+keyboards (0.008)
+@lordemusic (0.008)
+https://t.co/fl6kkzyjzs (0.008)
+tech (0.008)
+http://t.co/5psms3mjag (0.008)
+http://t.co/vbjksoy7ya (0.008)
+uberdriver (0.008)
+dishes (0.008)
+icymi (0.008)
+paws (0.008)
+http://t.co/dano0z1afm (0.008)
+http://t.co/rkj4uazayu (0.008)
+http://t.co/ungl9fw3iv (0.008)
+https://t.co/kufd6ohr6m (0.008)
+bff (0.008)
+snap (0.008) [it was below the minShapeSize threshold]
+http://t.co/kiboiwgrtv (0.008)
+http://t.co/yz3ezomkje (0.008)
+http://t.co/m59iivgxhp (0.008)
+biztravel (0.008)
+changed (0.008)
+opera-loving (0.008)
+cooler (0.008)
+spooked (0.008)
+@thenewpotato (0.008)
+practically (0.008)
+http://t.co/kh6g4buad5 (0.008)
+http://t.co/svxwkptwpt (0.008)
+http://t.co/rugqaoacwu (0.008)
+approve (0.008) [it was below the minShapeSize threshold]
+http://t.co/1b37iultzd (0.008)
+bee (0.008)
+means (0.008) [it was below the minShapeSize threshold]
+meant (0.008) [it was below the minShapeSize threshold]
+http://t.co/cfrlqvuprg (0.008)
+hilda (0.008)
+http://t.co/xagdcruhy8 (0.008)
+@greatdiscontent's (0.008)
+http://t.co/vakpzcirtc (0.008)
+https://t.co/ogcicrthaa (0.008)
+@voguemagazine (0.008)
+vetswith (0.008)
+https://t.co/jlcwmftc30 (0.008)
+explore (0.008)
+http://t.co/vpvuevvzwi (0.008)
+deserved (0.008)
+http://t.co/g2rkxdi7hq (0.008)
+@sacramentokings (0.008)
+ease (0.008) [it was below the minShapeSize threshold]
+saturn (0.008) [it was below the minShapeSize threshold]
+http://t.co/vedu9qq4ew (0.008)
+https://t.co/r53vskk3oc (0.008)
+http://t.co/zbd3pssei2 (0.008)
+partnering (0.008)
+http://t.co/w43jwcbo3z (0.008)
+aloha (0.008)
+actively (0.008)
+tutorials (0.008)
+building (0.008)
+https://t.co/nbfo8zwvfz (0.008)
+play (0.008)
+agreement (0.008)
+mormon (0.008) [it was below the minShapeSize threshold]
+@the (0.008)
+football (0.008)
+http://t.co/kthgu7skdk (0.008)
+http://t.co/dflevozxs7 (0.008)
+@governordeal (0.008)
+pit (0.008)
+hosted (0.008)
+happyhalloween (0.008)
+empowerment (0.008)
+https://t.co/solcu4aguh (0.008)
+@jakeowen (0.008)
+hearts (0.008) [it was below the minShapeSize threshold]
+@itchimiasia (0.008)
+kicking (0.008)
+screenings (0.008)
+thiruvananthapuram (0.008)
+nice (0.008) [it was below the minShapeSize threshold]
+checks (0.008) [it was below the minShapeSize threshold]
+livre (0.008) [it was below the minShapeSize threshold]
+eyes (0.008) [it was below the minShapeSize threshold]
+http://t.co/0xtl0b75ke (0.008)
+http://t.co/6aokha5lzu (0.008)
+http://t.co/ofh59kkvam (0.008)
+http://t.co/bxw8w8je1s (0.008)
+seat (0.008) [it was below the minShapeSize threshold]
+uberpreneur (0.008)
+@bgurley (0.008)
+adopt (0.008)
+http://t.co/blgo2isf0a (0.008)
+lovely (0.008)
+commission (0.008) [it was below the minShapeSize threshold]
+@youshaei (0.008)
+gonna (0.008) [it was below the minShapeSize threshold]
+heads (0.008) [it was below the minShapeSize threshold]
+http://t.co/e6d61mbjkd (0.008)
+became (0.008) [it was below the minShapeSize threshold]
+http://t.co/drbsdn68xv (0.008)
+all-star (0.008) [it was below the minShapeSize threshold]
+6am (0.008) [it was below the minShapeSize threshold]
+cat-didate (0.008) [it was below the minShapeSize threshold]
+pricing (0.008)
+http://t.co/zoy7cnahrv (0.008)
+athletes (0.008) [it was below the minShapeSize threshold]
+http://t.co/dssxayhqdz (0.008)
+stay-at-home (0.008)
+sunday (0.008)
+los (0.008) [it was below the minShapeSize threshold]
+orlovesuber (0.008) [it was below the minShapeSize threshold]
+devices (0.008) [it was below the minShapeSize threshold]
+http://t.co/iga9kikgwt (0.008)
+http://t.co/yfzgfk0fzu (0.008)
+http://t.co/u3bwzfn50p (0.008)
+uberpartnerken (0.008)
+@usanetwork (0.008)
+reveals (0.008) [it was below the minShapeSize threshold]
+letting (0.008)
+difficult (0.008) [it was below the minShapeSize threshold]
+beta (0.008) [it was below the minShapeSize threshold]
+pickups (0.008)
+nyfw (0.008)
+messages (0.008) [it was below the minShapeSize threshold]
+http://t.co/oc6hcp0zk4 (0.008)
+@mac (0.008)
+american (0.008) [it was below the minShapeSize threshold]
+decree (0.008) [it was below the minShapeSize threshold]
+http://t.co/v51bma9shx (0.008)
+vancuber (0.008) [it was below the minShapeSize threshold]
+license (0.008) [it was below the minShapeSize threshold]
+http://t.co/9qg0sctayg (0.008)
+lifetime (0.008) [it was below the minShapeSize threshold]
+approves (0.008) [it was below the minShapeSize threshold]
+duolingo (0.008)
+http://t.co/b059ekpfx5 (0.008)
+dressed (0.008) [it was below the minShapeSize threshold]
+pennsylvania (0.008)
+girlsbuiltthis (0.008)
+cnn (0.008) [it was below the minShapeSize threshold]
+talking (0.008)
+http://t.co/7mnpbbtzow (0.008)
+http://t.co/0skfibyzox (0.008)
+presenting (0.008)
+http://t.co/tgmmrk09n2 (0.008)
+south (0.008) [it was below the minShapeSize threshold]
+puppy (0.008) [it was below the minShapeSize threshold]
+http://t.co/59cjxxe0m1 (0.008)
+torre (0.008) [it was below the minShapeSize threshold]
+http://t.co/jfwuu9bsan (0.008)
+http://t.co/aicceo1v3t (0.008)
+con (0.008) [it was below the minShapeSize threshold]
+http://t.co/uubgv5jmgm (0.008)
+pst (0.008) [it was below the minShapeSize threshold]
+http://t.co/9sv (0.008)
+branded (0.008) [it was below the minShapeSize threshold]
+@vaccinefinder (0.008)
+sports (0.008) [it was below the minShapeSize threshold]
+yesterday's (0.008)
+in-person (0.008)
+spanish-speaking (0.008)
+@therealoctina (0.008)
+http://t.co/jtkqekygnn (0.008)
+courtesy (0.008) [it was below the minShapeSize threshold]
+superpumped (0.008)
+values (0.008) [it was below the minShapeSize threshold]
+http://t.co/fpzbu9xow4 (0.008)
+uberspotify (0.008)
+unicef (0.008) [it was below the minShapeSize threshold]
+http://t.co/kefnfnwrxj (0.008)
+imagine (0.008)
+http://t.co/gw5dowdswj (0.008)
+gone (0.008) [it was below the minShapeSize threshold]
+http://t.co/lfltmjgzzd (0.008)
+refugee (0.008)
+five-year (0.008)
+leaders (0.008) [it was below the minShapeSize threshold]
+cost (0.008) [it was below the minShapeSize threshold]
+http://t.co/tiutgoryaz (0.008)
+http://t.co/0segoqagky (0.008)
+december (0.008) [it was below the minShapeSize threshold]
+@paypal (0.008)
+df14 (0.008) [it was below the minShapeSize threshold]
+http://t.co/ikkokrrtmn (0.008)
+http://t.co/ofodymehrq (0.008)
+tapping (0.008)
+ignacio (0.008)
+http://t.co/3mluq5s45c (0.008)
+http://t.co/viuc (0.008)
+car (0.008) [it was below the minShapeSize threshold]
+http://t.co/s3ly08qmcd (0.008)
+http://t.co/97datsl6gy (0.008)
+dosa (0.008) [it was below the minShapeSize threshold]
+corp (0.008) [it was below the minShapeSize threshold]
+http://t.co/hjtxcgzlun (0.008)
+http://t.co/msskmupahb (0.008)
+cab (0.008) [it was below the minShapeSize threshold]
+part-timers (0.008)
+http://t.co/d9pu6e1kbt (0.008)
+cam (0.008) [it was below the minShapeSize threshold]
+inspire (0.008)
+hails (0.008) [it was below the minShapeSize threshold]
+profile (0.008)
+tricks (0.008) [it was below the minShapeSize threshold]
+weekend's (0.008) [it was below the minShapeSize threshold]
+http://t.co/0rhwiixghr (0.008)
+oops (0.008) [it was below the minShapeSize threshold]
+uberauto (0.008) [it was below the minShapeSize threshold]
+yoo (0.008) [it was below the minShapeSize threshold]
+ubersequeda (0.008)
+coverage (0.008) [it was below the minShapeSize threshold]
+changing (0.008)
+core (0.008) [it was below the minShapeSize threshold]
+https://t.co/conuh4rkol (0.008)
+@livmiami (0.008)
+http://t.co/xnauw0lwkm (0.008)
+http://t.co/wxowyr6ne3 (0.008)
+pledges (0.008)
+reducing (0.008)
+travis (0.008) [it was below the minShapeSize threshold]
+@rwpassacademy (0.008)
+baskets (0.008) [it was below the minShapeSize threshold]
+https://t.co/xhx8ekkvhd (0.008)
+bridgette (0.008)
+http://t.co/q7pbixxxoq (0.008)
+entrenched (0.008) [it was below the minShapeSize threshold]
+nights (0.008)
+https://t.co/zb4p2hovud (0.008)
+unused (0.008) [it was below the minShapeSize threshold]
+nationaldessertday (0.008)
+http://t.co/b5tiu8ml5b (0.008)
+https://t.co/qhtsgfct8k (0.008)
+http://t.co/af2ymepjxi (0.008)
+@jonathangaurano's (0.008)
+equals (0.008)
+extra (0.008) [it was below the minShapeSize threshold]
+https://t.co/0iioj7wn8y (0.008)
+snacks (0.008) [it was below the minShapeSize threshold]
+rhyming (0.008)
+http://t.co/yfbrmuucuz (0.008)
+huge (0.008)
+livonia’s (0.008) [it was below the minShapeSize threshold]
+@davemorin (0.008)
+https://t.co/7ncduwyntk (0.008) [it was below the minShapeSize threshold]
+rubella (0.008) [it was below the minShapeSize threshold]
+https://t.co/drl6ux2t9m (0.008) [it was below the minShapeSize threshold]
+inviting (0.008) [it was below the minShapeSize threshold]
+cents (0.008) [it was below the minShapeSize threshold]
+http://t.co/ssklqjbtnx (0.008) [it was below the minShapeSize threshold]
+bharti (0.008) [it was below the minShapeSize threshold]
+reggie's (0.008) [it was below the minShapeSize threshold]
+http://t.co/eje7jau6gf (0.008)
+mirror (0.008) [it was below the minShapeSize threshold]
+@googlemaps (0.008) [it was below the minShapeSize threshold]
+paris (0.008) [it was below the minShapeSize threshold]
+uberwedding (0.008) [it was below the minShapeSize threshold]
+wheelchair-accessible (0.008) [it was below the minShapeSize threshold]
+http://t.co/7pbq454adn (0.008) [it was below the minShapeSize threshold]
+vadodara (0.008) [it was below the minShapeSize threshold]
+ball (0.008) [it was below the minShapeSize threshold]
+raidernation (0.008) [it was below the minShapeSize threshold]
+redefining (0.008) [it was below the minShapeSize threshold]
+guy (0.008) [it was below the minShapeSize threshold]
+http://t.co/9kkh3xjxfv (0.008) [it was below the minShapeSize threshold]
+http://t.co/mdtt9cq6mw (0.008) [it was below the minShapeSize threshold]
+nokidhungry (0.008) [it was below the minShapeSize threshold]
+uberpedal (0.008) [it was below the minShapeSize threshold]
+impacted (0.008) [it was below the minShapeSize threshold]
+http://t.co/k2cbowqomo (0.008) [it was below the minShapeSize threshold]
+@jimmykimmel (0.008) [it was below the minShapeSize threshold]
+https://t.co/dhfzgxwqp1 (0.008) [it was below the minShapeSize threshold]
+gang (0.008) [it was below the minShapeSize threshold]
+https://t.co/eq2us3mok7 (0.008) [it was below the minShapeSize threshold]
+improving (0.008) [it was below the minShapeSize threshold]
+bus (0.008) [it was below the minShapeSize threshold]
+send (0.008) [it was below the minShapeSize threshold]
+microphones (0.008) [it was below the minShapeSize threshold]
+cathie (0.008) [it was below the minShapeSize threshold]
+http://t.co/ciqwzim5hx (0.008) [it was below the minShapeSize threshold]
+raising (0.008) [it was below the minShapeSize threshold]
+submission (0.008) [it was below the minShapeSize threshold]
+@outlook (0.008) [it was below the minShapeSize threshold]
+http://t.co/kafggvrz6z (0.008) [it was below the minShapeSize threshold]
+beaches (0.008) [it was below the minShapeSize threshold]
+@uberfr (0.008) [it was below the minShapeSize threshold]
+@manceramiguelmx (0.008) [it was below the minShapeSize threshold]
+@biztravelerna (0.008) [it was below the minShapeSize threshold]
+http://t.co/tw24xzefyy (0.008) [it was below the minShapeSize threshold]
+http://t.co/11he1gqtxq (0.008) [it was below the minShapeSize threshold]
+fieldtripchaperone (0.008) [it was below the minShapeSize threshold]
+partnered (0.008) [it was below the minShapeSize threshold]
+http://t.co/7leya53kby (0.008) [it was below the minShapeSize threshold]
+people's (0.008) [it was below the minShapeSize threshold]
+https://t.co/4x (0.008) [it was below the minShapeSize threshold]
+http://t.co/u7obkcwdry (0.008) [it was below the minShapeSize threshold]
+certified (0.008) [it was below the minShapeSize threshold]
+status (0.008) [it was below the minShapeSize threshold]
+http://t.co/mfswtpb2nm (0.008) [it was below the minShapeSize threshold]
+http://t.co/ejjxxlcmk6 (0.008) [it was below the minShapeSize threshold]
+pains (0.008) [it was below the minShapeSize threshold]
+howl (0.008) [it was below the minShapeSize threshold]
+scoring (0.008) [it was below the minShapeSize threshold]
+denotes (0.008) [it was below the minShapeSize threshold]
+hard-of-hearing (0.008) [it was below the minShapeSize threshold]
+http://t.co/qcy (0.008) [it was below the minShapeSize threshold]
+statue (0.008) [it was below the minShapeSize threshold]
+injured (0.008) [it was below the minShapeSize threshold]
+season (0.008) [it was below the minShapeSize threshold]
+@cheezburger (0.008) [it was below the minShapeSize threshold]
+sing (0.008) [it was below the minShapeSize threshold]
+cho (0.008) [it was below the minShapeSize threshold]
+http://t.co/fqensv19zd (0.008) [it was below the minShapeSize threshold]
+ubersuv (0.008) [it was below the minShapeSize threshold]
+@justintuck (0.008) [it was below the minShapeSize threshold]
+underwoods (0.008) [it was below the minShapeSize threshold]
+http://t.co/j8seiweo1o (0.008) [it was below the minShapeSize threshold]
+http://t.co/xywiaay64a (0.008) [it was below the minShapeSize threshold]
+vous (0.008) [it was below the minShapeSize threshold]
+calling (0.008) [it was below the minShapeSize threshold]
+juno (0.008) [it was below the minShapeSize threshold]
+north (0.008) [it was below the minShapeSize threshold]
+mohammad (0.008) [it was below the minShapeSize threshold]
+cashpool (0.008) [it was below the minShapeSize threshold]
+@dburka (0.008) [it was below the minShapeSize threshold]
+http://t.co/ezuqp07u (0.008) [it was below the minShapeSize threshold]
+signups (0.008) [it was below the minShapeSize threshold]
+affair (0.008) [it was below the minShapeSize threshold]
+@diplo (0.008) [it was below the minShapeSize threshold]
+https://t.co/mzxajdpwok (0.008) [it was below the minShapeSize threshold]
+pool (0.008) [it was below the minShapeSize threshold]
+http://t.co/wuh0pdgrir (0.008) [it was below the minShapeSize threshold]
+safer (0.008) [it was below the minShapeSize threshold]
+@kitchensurfing (0.008) [it was below the minShapeSize threshold]
+roadblock (0.008) [it was below the minShapeSize threshold]
+keiry's (0.008) [it was below the minShapeSize threshold]
+@govofficenc (0.008) [it was below the minShapeSize threshold]
+participate (0.008) [it was below the minShapeSize threshold]
+playtime (0.008) [it was below the minShapeSize threshold]
+harlem (0.008) [it was below the minShapeSize threshold]
+http://t.co/19vdmf6d72 (0.008) [it was below the minShapeSize threshold]
+leadership (0.008) [it was below the minShapeSize threshold]
+nation’s (0.008) [it was below the minShapeSize threshold]
+potential (0.008) [it was below the minShapeSize threshold]
+@marlenemendoza (0.008) [it was below the minShapeSize threshold]
+http://t.co/rccoo5xr8z (0.008) [it was below the minShapeSize threshold]
+begin (0.008) [it was below the minShapeSize threshold]
+orleans (0.008) [it was below the minShapeSize threshold]
+towel (0.008) [it was below the minShapeSize threshold]
+prices (0.008) [it was below the minShapeSize threshold]
+@shelbyleemeans (0.008) [it was below the minShapeSize threshold]
+incredibly (0.008) [it was below the minShapeSize threshold]
+clients (0.008) [it was below the minShapeSize threshold]
+causing (0.008) [it was below the minShapeSize threshold]
+communities (0.008) [it was below the minShapeSize threshold]
+store (0.008) [it was below the minShapeSize threshold]
+interns (0.008) [it was below the minShapeSize threshold]
+@lindsay (0.008) [it was below the minShapeSize threshold]
+http://t.co/cx7qpixchq (0.008) [it was below the minShapeSize threshold]
+http://t.co/ippyhyraml (0.008) [it was below the minShapeSize threshold]
+https://t.co/8zlwgnumoi (0.008) [it was below the minShapeSize threshold]
+http://t.co/2wzybmnonm (0.008) [it was below the minShapeSize threshold]
+liza (0.008) [it was below the minShapeSize threshold]
+http://t.co/xzgug8irt2 (0.008) [it was below the minShapeSize threshold]
+https://t.co/syc1kn0jk4 (0.008) [it was below the minShapeSize threshold]
+@transitapp (0.008) [it was below the minShapeSize threshold]
+moms (0.008) [it was below the minShapeSize threshold]
+storms (0.008) [it was below the minShapeSize threshold]
+ft (0.008) [it was below the minShapeSize threshold]
+@easports (0.008) [it was below the minShapeSize threshold]
+awaits (0.008) [it was below the minShapeSize threshold]
+http://t.co/hsf4yd21cb (0.008) [it was below the minShapeSize threshold]
+ibm (0.008) [it was below the minShapeSize threshold]
+mood (0.008) [it was below the minShapeSize threshold]
+plate (0.008) [it was below the minShapeSize threshold]
+rideshare (0.008) [it was below the minShapeSize threshold]
+miles (0.008) [it was below the minShapeSize threshold]
+gm (0.008) [it was below the minShapeSize threshold]
+projects (0.008) [it was below the minShapeSize threshold]
+blowing (0.008) [it was below the minShapeSize threshold]
+aim (0.008) [it was below the minShapeSize threshold]
+maddenseason (0.008) [it was below the minShapeSize threshold]
+nicholas (0.008) [it was below the minShapeSize threshold]
+keeping (0.008) [it was below the minShapeSize threshold]
+https://t.co/ycssupxvqo (0.008) [it was below the minShapeSize threshold]
+ladyeng (0.008) [it was below the minShapeSize threshold]
+@mayorstimpson (0.008) [it was below the minShapeSize threshold]
+senator (0.008) [it was below the minShapeSize threshold]
+hospital (0.008) [it was below the minShapeSize threshold]
+http://t.co/y6qoyuupaj (0.008) [it was below the minShapeSize threshold]
+http://t.co/aqiiyfzl2m (0.008) [it was below the minShapeSize threshold]
+http://t.co/ouswerioqc (0.008) [it was below the minShapeSize threshold]
+continues (0.008) [it was below the minShapeSize threshold]
+dt (0.008) [it was below the minShapeSize threshold]
+https://t.co/byaatpia2x (0.008) [it was below the minShapeSize threshold]
+satisfy (0.008) [it was below the minShapeSize threshold]
+dublin (0.008) [it was below the minShapeSize threshold]
+ues (0.008) [it was below the minShapeSize threshold]
+wrist (0.008) [it was below the minShapeSize threshold]
+http://t.co/ioa (0.008) [it was below the minShapeSize threshold]
+stops (0.008) [it was below the minShapeSize threshold]
+http://t.co/8fplgo3ngr (0.008) [it was below the minShapeSize threshold]
+@amplehills (0.008) [it was below the minShapeSize threshold]
+evening (0.008) [it was below the minShapeSize threshold]
+http://t.co/t6jnb1hrwm (0.008) [it was below the minShapeSize threshold]
+http://t.co/vzcquhdstc (0.008) [it was below the minShapeSize threshold]
+@4rs1p (0.008) [it was below the minShapeSize threshold]
+eu (0.008) [it was below the minShapeSize threshold]
+adoption (0.008) [it was below the minShapeSize threshold]
+http://t.co/17xtg5cgnu (0.008) [it was below the minShapeSize threshold]
+http://t.co/xgpr7pwfgm (0.008) [it was below the minShapeSize threshold]
+http://t.co/x5gw3ovyxa (0.008) [it was below the minShapeSize threshold]
+driver-partner (0.008) [it was below the minShapeSize threshold]
+gain (0.008) [it was below the minShapeSize threshold]
+yes (0.008) [it was below the minShapeSize threshold]
+volume (0.008) [it was below the minShapeSize threshold]
+dining (0.008) [it was below the minShapeSize threshold]
+en (0.008) [it was below the minShapeSize threshold]
+http://t.co/isnqvdi7ch (0.008) [it was below the minShapeSize threshold]
+et (0.008) [it was below the minShapeSize threshold]
+notes (0.008) [it was below the minShapeSize threshold]
+angeles (0.008) [it was below the minShapeSize threshold]
+http://t.co/i3pzz9ff28 (0.008) [it was below the minShapeSize threshold]
+es (0.008) [it was below the minShapeSize threshold]
+yet (0.008) [it was below the minShapeSize threshold]
+overslept (0.008) [it was below the minShapeSize threshold]
+ca (0.008) [it was below the minShapeSize threshold]
+player (0.008) [it was below the minShapeSize threshold]
+bz (0.008) [it was below the minShapeSize threshold]
+http://t.co/cyfll0ffbe (0.008) [it was below the minShapeSize threshold]
+http://t.co/gzl1j8owag (0.008) [it was below the minShapeSize threshold]
+captured (0.008) [it was below the minShapeSize threshold]
+fewest (0.008) [it was below the minShapeSize threshold]
+tragedy (0.008) [it was below the minShapeSize threshold]
+transportation (0.008) [it was below the minShapeSize threshold]
+paypalit (0.008) [it was below the minShapeSize threshold]
+http://t.co/nmizwtkoz4 (0.008) [it was below the minShapeSize threshold]
+wallet (0.008) [it was below the minShapeSize threshold]
+http://t.co/qjksv8tfdw (0.008) [it was below the minShapeSize threshold]
+@stand4heroes (0.008) [it was below the minShapeSize threshold]
+http://t.co/qih4vozuok (0.008) [it was below the minShapeSize threshold]
+http://t.co/mxqquwflep (0.008) [it was below the minShapeSize threshold]
+http://t.co/u77gc2n6au (0.008) [it was below the minShapeSize threshold]
+http://t.co/ul4vhsbuqx (0.008) [it was below the minShapeSize threshold]
+@3lau (0.008) [it was below the minShapeSize threshold]
+revolutionizing (0.008) [it was below the minShapeSize threshold]
+leno (0.008) [it was below the minShapeSize threshold]
+http://t.co/v13zzt8bo3 (0.008) [it was below the minShapeSize threshold]
+decided (0.008) [it was below the minShapeSize threshold]
+http://t.co/l0r3fbvuio (0.008) [it was below the minShapeSize threshold]
+http://t.co/qxl4i6xf8y (0.008) [it was below the minShapeSize threshold]
+played (0.008) [it was below the minShapeSize threshold]
+australia (0.008) [it was below the minShapeSize threshold]
+@espn (0.008) [it was below the minShapeSize threshold]
+http://t.co/paioefqtmp (0.008) [it was below the minShapeSize threshold]
+thrive (0.008) [it was below the minShapeSize threshold]
+cc (0.008) [it was below the minShapeSize threshold]
+http://t.co/n7w97cljd5 (0.008) [it was below the minShapeSize threshold]
+straight (0.008) [it was below the minShapeSize threshold]
+effortlessly (0.008) [it was below the minShapeSize threshold]
+clothing (0.008) [it was below the minShapeSize threshold]
+lighter (0.008) [it was below the minShapeSize threshold]
+financially (0.008) [it was below the minShapeSize threshold]
+nitrogen (0.008) [it was below the minShapeSize threshold]
+treats (0.008) [it was below the minShapeSize threshold]
+mew (0.008) [it was below the minShapeSize threshold]
+28th (0.008) [it was below the minShapeSize threshold]
+@nytimes...better (0.008) [it was below the minShapeSize threshold]
+@usc (0.008) [it was below the minShapeSize threshold]
+shelf/hook (0.008) [it was below the minShapeSize threshold]
+restaurants (0.008) [it was below the minShapeSize threshold]
+earnings (0.008) [it was below the minShapeSize threshold]
+uberm (0.008) [it was below the minShapeSize threshold]
+houston (0.008) [it was below the minShapeSize threshold]
+rickshaw (0.008) [it was below the minShapeSize threshold]
+overload (0.008) [it was below the minShapeSize threshold]
+http://t.co/3dzfgk39ye (0.008) [it was below the minShapeSize threshold]
+http://t.co/xou0fqlzsx (0.008) [it was below the minShapeSize threshold]
+al (0.008) [it was below the minShapeSize threshold]
+michael (0.008) [it was below the minShapeSize threshold]
+tattoos (0.008) [it was below the minShapeSize threshold]
+meeting (0.008) [it was below the minShapeSize threshold]
+ad (0.008) [it was below the minShapeSize threshold]
+http://t.co/bogimexwvh (0.008) [it was below the minShapeSize threshold]
+http://t.co/szusxg2yks (0.008) [it was below the minShapeSize threshold]
+@flugov (0.008) [it was below the minShapeSize threshold]
+growth (0.008) [it was below the minShapeSize threshold]
+@xuathletics (0.008) [it was below the minShapeSize threshold]
+daniel (0.008) [it was below the minShapeSize threshold]
+employment (0.008) [it was below the minShapeSize threshold]
+https://t.co/vuaxakinmw (0.008) [it was below the minShapeSize threshold]
+gallons (0.008) [it was below the minShapeSize threshold]
+street (0.008) [it was below the minShapeSize threshold]
+http://t.co/ujide7730f (0.008) [it was below the minShapeSize threshold]
+determine (0.008) [it was below the minShapeSize threshold]
+door (0.008) [it was below the minShapeSize threshold]
+http://t.co/agthnmwcwt (0.008) [it was below the minShapeSize threshold]
+forgotten (0.008) [it was below the minShapeSize threshold]
+http://t.co/3lqtcfysrt (0.008) [it was below the minShapeSize threshold]
+feast (0.008) [it was below the minShapeSize threshold]
+http://t.co/tgvb96ewtl (0.008) [it was below the minShapeSize threshold]
+http://t.co/g3ht841zap (0.008) [it was below the minShapeSize threshold]
+http://t.co/ycd72oj2wc (0.008) [it was below the minShapeSize threshold]
+thoughts (0.008) [it was below the minShapeSize threshold]
+limit (0.008) [it was below the minShapeSize threshold]
+@periscopeco (0.008) [it was below the minShapeSize threshold]
+ladies (0.008) [it was below the minShapeSize threshold]
+commitment (0.008) [it was below the minShapeSize threshold]
+q1 (0.008) [it was below the minShapeSize threshold]
+wemadeit (0.008) [it was below the minShapeSize threshold]
+@cocacola (0.008) [it was below the minShapeSize threshold]
+sunscreen (0.008) [it was below the minShapeSize threshold]
+milfams (0.008) [it was below the minShapeSize threshold]
+https://t.co/ie0lcyezsm (0.008) [it was below the minShapeSize threshold]
+gems (0.008) [it was below the minShapeSize threshold]
+simplicity (0.008) [it was below the minShapeSize threshold]
+thinking (0.008) [it was below the minShapeSize threshold]
+70th (0.008) [it was below the minShapeSize threshold]
+generosity (0.008) [it was below the minShapeSize threshold]
+http://t.co/rq3drbyjuv (0.008) [it was below the minShapeSize threshold]
+uberallaccess (0.008) [it was below the minShapeSize threshold]
+plans (0.008) [it was below the minShapeSize threshold]
+@duolingo (0.008) [it was below the minShapeSize threshold]
+credits (0.008) [it was below the minShapeSize threshold]
+https://t.co/hdc2qmqesu (0.008) [it was below the minShapeSize threshold]
+behind-the-wheel (0.008) [it was below the minShapeSize threshold]
+http://t.co/qejuqscgot (0.008) [it was below the minShapeSize threshold]
+http://t.co/sakbbuixdm (0.008) [it was below the minShapeSize threshold]
+commuters (0.008) [it was below the minShapeSize threshold]
+@troyesivan (0.008) [it was below the minShapeSize threshold]
+solve (0.008) [it was below the minShapeSize threshold]
+@morganstanley (0.008) [it was below the minShapeSize threshold]
+http://t.co/w3k6dftdlf (0.008) [it was below the minShapeSize threshold]
+http://t.co/egclrhkzqf (0.008) [it was below the minShapeSize threshold]
+http://t.co/1ewszl7h7f (0.008) [it was below the minShapeSize threshold]
+http://t.co/jdepmbrnee (0.008) [it was below the minShapeSize threshold]
+humbling (0.008) [it was below the minShapeSize threshold]
+on-the-go (0.008) [it was below the minShapeSize threshold]
+http://t.co/vhfb1umpno (0.008) [it was below the minShapeSize threshold]
+@lgbtmilpartners (0.008) [it was below the minShapeSize threshold]
+http://t.co/ap0tghsfc3 (0.008) [it was below the minShapeSize threshold]
+mi (0.008) [it was below the minShapeSize threshold]
+lion (0.008) [it was below the minShapeSize threshold]
+ampa (0.008) [it was below the minShapeSize threshold]
+appreciation (0.008) [it was below the minShapeSize threshold]
+mt (0.008) [it was below the minShapeSize threshold]
+product (0.008) [it was below the minShapeSize threshold]
+account (0.008) [it was below the minShapeSize threshold]
+http://t.co/pvtf9djirg (0.008) [it was below the minShapeSize threshold]
+kansas (0.008) [it was below the minShapeSize threshold]
+regina (0.008) [it was below the minShapeSize threshold]
+http://t.co/izozd9kclx (0.008) [it was below the minShapeSize threshold]
+qld (0.008) [it was below the minShapeSize threshold]
+skilled (0.008) [it was below the minShapeSize threshold]
+http://t.co/rnggytqltv (0.008) [it was below the minShapeSize threshold]
+@dbrooks55 (0.008) [it was below the minShapeSize threshold]
+studies (0.008) [it was below the minShapeSize threshold]
+4pm (0.008) [it was below the minShapeSize threshold]
+checklist (0.008) [it was below the minShapeSize threshold]
+lifeline (0.008) [it was below the minShapeSize threshold]
+http://t.co/ekvteivxou (0.008) [it was below the minShapeSize threshold]
+http://t.co/rggf4qt4k7 (0.008) [it was below the minShapeSize threshold]
+credit (0.008) [it was below the minShapeSize threshold]
+lots (0.008) [it was below the minShapeSize threshold]
+glance (0.008) [it was below the minShapeSize threshold]
+http://t.co/ukxpg2qtzc (0.008) [it was below the minShapeSize threshold]
+measles (0.008) [it was below the minShapeSize threshold]
+pebbletime (0.008) [it was below the minShapeSize threshold]
+http://t.co/jo2hjpwwle (0.008) [it was below the minShapeSize threshold]
+http://t.co/gkssnxczgd (0.008) [it was below the minShapeSize threshold]
+@hudsonhoyle's (0.008) [it was below the minShapeSize threshold]
+madrileños (0.008) [it was below the minShapeSize threshold]
+http://t.co/utwbhh2a2x (0.008) [it was below the minShapeSize threshold]
+http://t.co/wmyndvmypx (0.008) [it was below the minShapeSize threshold]
+http://t.co/9bbldr1wsm (0.008) [it was below the minShapeSize threshold]
+cat-didates (0.008) [it was below the minShapeSize threshold]
+the100dayproject (0.008) [it was below the minShapeSize threshold]
+9am (0.008) [it was below the minShapeSize threshold]
+throwing (0.008) [it was below the minShapeSize threshold]
+https://t.co/zyct5nhhiu (0.008) [it was below the minShapeSize threshold]
+playing (0.008) [it was below the minShapeSize threshold]
+crazy (0.008) [it was below the minShapeSize threshold]
+http://t.co/l2izge97nw (0.008) [it was below the minShapeSize threshold]
+http://t.co/bzjfvrtbbv (0.008) [it was below the minShapeSize threshold]
+http://t.co/ie2j0otrkm (0.008) [it was below the minShapeSize threshold]
+http://t.co/1s5nsxju5s (0.008) [it was below the minShapeSize threshold]
+attendees (0.008) [it was below the minShapeSize threshold]
+javascript (0.008) [it was below the minShapeSize threshold]
+gets (0.008) [it was below the minShapeSize threshold]
+agency (0.008) [it was below the minShapeSize threshold]
+list (0.008) [it was below the minShapeSize threshold]
+http://t.co/s5oqtpomdu (0.008) [it was below the minShapeSize threshold]
+co-rider (0.008) [it was below the minShapeSize threshold]
+carrington (0.008) [it was below the minShapeSize threshold]
+http://t.co/7etghafrr8 (0.008) [it was below the minShapeSize threshold]
+baidu (0.008) [it was below the minShapeSize threshold]
+opportunity (0.008) [it was below the minShapeSize threshold]
+@rsarver (0.008) [it was below the minShapeSize threshold]
+@fabriquegivree (0.008) [it was below the minShapeSize threshold]
+shareacoke (0.008) [it was below the minShapeSize threshold]
+http://t.co/kethf1hubp (0.008) [it was below the minShapeSize threshold]
+@chrismorales07 (0.008) [it was below the minShapeSize threshold]
+slump (0.008) [it was below the minShapeSize threshold]
+necessary (0.008) [it was below the minShapeSize threshold]
+rating (0.008) [it was below the minShapeSize threshold]
+smart (0.008) [it was below the minShapeSize threshold]
+emrah's (0.008) [it was below the minShapeSize threshold]
+amsterdam (0.008) [it was below the minShapeSize threshold]
+http://t.co/nbi2ia7zuv (0.008) [it was below the minShapeSize threshold]
+go-to (0.008) [it was below the minShapeSize threshold]
+spot (0.008) [it was below the minShapeSize threshold]
+http://t.co/zoyxuowivu (0.008) [it was below the minShapeSize threshold]
+http://t.co/tvk0fzzmft (0.008) [it was below the minShapeSize threshold]
+assistant (0.008) [it was below the minShapeSize threshold]
+baseball (0.008) [it was below the minShapeSize threshold]
+http://t.co/wepo2g7lgq (0.008) [it was below the minShapeSize threshold]
+http://t.co/346ot1nhyl (0.008) [it was below the minShapeSize threshold]
+http://t.co/ecuhi6ilnl (0.008) [it was below the minShapeSize threshold]
+place (0.008) [it was below the minShapeSize threshold]
+@tvbtweets (0.008) [it was below the minShapeSize threshold]
+http://t.co/u1y9yqq8ml (0.008) [it was below the minShapeSize threshold]
+cell (0.008) [it was below the minShapeSize threshold]
+bride-to-be (0.008) [it was below the minShapeSize threshold]
+http://t.co/p78b3rgnzx (0.008) [it was below the minShapeSize threshold]
+http://t.co/uvegyudfpi (0.008) [it was below the minShapeSize threshold]
+prettygirls (0.008) [it was below the minShapeSize threshold]
+http://t.co/jr6qkmw7ei (0.008) [it was below the minShapeSize threshold]
+disaster (0.008) [it was below the minShapeSize threshold]
+http://t.co/ngjt3puvdo (0.008) [it was below the minShapeSize threshold]
+grace (0.008) [it was below the minShapeSize threshold]
+glitch (0.008) [it was below the minShapeSize threshold]
+simply (0.008) [it was below the minShapeSize threshold]
+icecreamondemand (0.008) [it was below the minShapeSize threshold]
+mikhayel (0.008) [it was below the minShapeSize threshold]
+@moleskine (0.008) [it was below the minShapeSize threshold]
+decir (0.008) [it was below the minShapeSize threshold]
+busiest (0.008) [it was below the minShapeSize threshold]
+http://t.co/j3snrvzxud (0.008) [it was below the minShapeSize threshold]
+http://t.co/kv6od4roya (0.008) [it was below the minShapeSize threshold]
+https://t.co/ocotmldtz1 (0.008) [it was below the minShapeSize threshold]
+brought (0.008) [it was below the minShapeSize threshold]
+http://t.co/dh2gw5eahq (0.008) [it was below the minShapeSize threshold]
+@citi (0.008) [it was below the minShapeSize threshold]
+reasons (0.008) [it was below the minShapeSize threshold]
+eats (0.008) [it was below the minShapeSize threshold]
+date (0.008) [it was below the minShapeSize threshold]
+entrance (0.008) [it was below the minShapeSize threshold]
+http://t.co/razoypzayk (0.008) [it was below the minShapeSize threshold]
+http://t.co/rl2ap8ghcd (0.008) [it was below the minShapeSize threshold]
+older (0.008) [it was below the minShapeSize threshold]
+va (0.008) [it was below the minShapeSize threshold]
+hard (0.008) [it was below the minShapeSize threshold]
+ability (0.008) [it was below the minShapeSize threshold]
+uk (0.008) [it was below the minShapeSize threshold]
+park (0.008) [it was below the minShapeSize threshold]
+one-tap (0.008) [it was below the minShapeSize threshold]
+http://t.co/lxdc1jtq (0.008) [it was below the minShapeSize threshold]
+@mslagh (0.008) [it was below the minShapeSize threshold]
+https://t.co/gkxf8qkodz (0.008) [it was below the minShapeSize threshold]
+http://t.co/sw5bzwrgik (0.008) [it was below the minShapeSize threshold]
+tortas (0.008) [it was below the minShapeSize threshold]
+tx (0.008) [it was below the minShapeSize threshold]
+http://t.co/latqd7syew (0.008) [it was below the minShapeSize threshold]
+tu (0.008) [it was below the minShapeSize threshold]
+seconds (0.008) [it was below the minShapeSize threshold]
+http://t.co/qbnj5heaqr (0.008) [it was below the minShapeSize threshold]
+laid (0.008) [it was below the minShapeSize threshold]
+http://t.co/ouswerzzpc (0.008) [it was below the minShapeSize threshold]
+impressive (0.008) [it was below the minShapeSize threshold]
+dog (0.008) [it was below the minShapeSize threshold]
+tweets (0.008) [it was below the minShapeSize threshold]
+happens (0.008) [it was below the minShapeSize threshold]
+cancer (0.008) [it was below the minShapeSize threshold]
+purrfect (0.008) [it was below the minShapeSize threshold]
+http://t.co/owjlx6sjkm (0.008) [it was below the minShapeSize threshold]
+attend (0.008) [it was below the minShapeSize threshold]
+http://t.co/js0vyxbxsk (0.008) [it was below the minShapeSize threshold]
+pull (0.008) [it was below the minShapeSize threshold]
+octagon (0.008) [it was below the minShapeSize threshold]
+half (0.008) [it was below the minShapeSize threshold]
+round (0.008) [it was below the minShapeSize threshold]
+http://t.co/6ncpwy7pll (0.008) [it was below the minShapeSize threshold]
+@sprint (0.008) [it was below the minShapeSize threshold]
+ti (0.008) [it was below the minShapeSize threshold]
+luigi (0.008) [it was below the minShapeSize threshold]
+student (0.008) [it was below the minShapeSize threshold]
+http://t.co/tygqtwtjw7 (0.008) [it was below the minShapeSize threshold]
+continents (0.008) [it was below the minShapeSize threshold]
+connections (0.008) [it was below the minShapeSize threshold]
+welcome (0.008) [it was below the minShapeSize threshold]
+submit (0.008) [it was below the minShapeSize threshold]
+coachella (0.008) [it was below the minShapeSize threshold]
+mexico (0.008) [it was below the minShapeSize threshold]
+12-4pm (0.008) [it was below the minShapeSize threshold]
+alternative (0.008) [it was below the minShapeSize threshold]
+providing (0.008) [it was below the minShapeSize threshold]
+http://t.co/ala1nznafe (0.008) [it was below the minShapeSize threshold]
+counting (0.008) [it was below the minShapeSize threshold]
+life-saving (0.008) [it was below the minShapeSize threshold]
+https://t.co/cxncinuofn (0.008) [it was below the minShapeSize threshold]
+http://t.co/cg0upx3be9 (0.008) [it was below the minShapeSize threshold]
+laurie (0.008) [it was below the minShapeSize threshold]
+http://t.co/sjyrpg9ql4 (0.008) [it was below the minShapeSize threshold]
+http://t.co/0wmxbgruut (0.008) [it was below the minShapeSize threshold]
+adorable (0.008) [it was below the minShapeSize threshold]
+shopping (0.008) [it was below the minShapeSize threshold]
+birthday (0.008) [it was below the minShapeSize threshold]
+gamble (0.008) [it was below the minShapeSize threshold]
+weight (0.008) [it was below the minShapeSize threshold]
+http://t.co/trfxnwrmic (0.008) [it was below the minShapeSize threshold]
+http://t.co/n8blredp7g (0.008) [it was below the minShapeSize threshold]
+land (0.008) [it was below the minShapeSize threshold]
+strings (0.008) [it was below the minShapeSize threshold]
+repeat (0.008) [it was below the minShapeSize threshold]
+hang (0.008) [it was below the minShapeSize threshold]
+https://t.co/0h1qcqorac (0.008) [it was below the minShapeSize threshold]
+liberty (0.008) [it was below the minShapeSize threshold]
+logotype...its (0.008) [it was below the minShapeSize threshold]
+quo (0.008) [it was below the minShapeSize threshold]
+reach (0.008) [it was below the minShapeSize threshold]
+hoping (0.008) [it was below the minShapeSize threshold]
+http://t.co/ixshzwasrt (0.008) [it was below the minShapeSize threshold]
+https://t.co/txzdrv49pz (0.008) [it was below the minShapeSize threshold]
+tor (0.008) [it was below the minShapeSize threshold]
+uberpop (0.008) [it was below the minShapeSize threshold]
+@krewella (0.008) [it was below the minShapeSize threshold]
+everys (0.008) [it was below the minShapeSize threshold]
+http://t.co/qlprh6rohg (0.008) [it was below the minShapeSize threshold]
+http://t.co/tlco9nnnra (0.008) [it was below the minShapeSize threshold]
+cleaning (0.008) [it was below the minShapeSize threshold]
+harnessing (0.008) [it was below the minShapeSize threshold]
+track (0.008) [it was below the minShapeSize threshold]
+thanksgiving (0.008) [it was below the minShapeSize threshold]
+http://t.co/vhucvwib1v (0.008) [it was below the minShapeSize threshold]
+couples (0.008) [it was below the minShapeSize threshold]
+vogue (0.008) [it was below the minShapeSize threshold]
+school (0.008) [it was below the minShapeSize threshold]
+c'est (0.008) [it was below the minShapeSize threshold]
+pt (0.008) [it was below the minShapeSize threshold]
+chariot (0.008) [it was below the minShapeSize threshold]
+provided (0.008) [it was below the minShapeSize threshold]
+http://t.co/b6znkrmlwr (0.008) [it was below the minShapeSize threshold]
+http://t.co/ghof4rws7i (0.008) [it was below the minShapeSize threshold]
+obrigado (0.008) [it was below the minShapeSize threshold]
+muslim (0.008) [it was below the minShapeSize threshold]
+http://t.co/3e7c0tu3dx (0.008) [it was below the minShapeSize threshold]
+dana (0.008) [it was below the minShapeSize threshold]
+https://t.co/ponfbr9uxw (0.008) [it was below the minShapeSize threshold]
+http://t.co/24itziesxy (0.008) [it was below the minShapeSize threshold]
+rescue (0.008) [it was below the minShapeSize threshold]
+guests (0.008) [it was below the minShapeSize threshold]
+http://t.co/6a3xcxz6d8 (0.008) [it was below the minShapeSize threshold]
+whether (0.008) [it was below the minShapeSize threshold]
+expect (0.008) [it was below the minShapeSize threshold]
+advisory (0.008) [it was below the minShapeSize threshold]
+drumroll (0.008) [it was below the minShapeSize threshold]
+propose (0.008) [it was below the minShapeSize threshold]
+vehicles (0.008) [it was below the minShapeSize threshold]
+barcelona (0.008) [it was below the minShapeSize threshold]
+guesswork (0.008) [it was below the minShapeSize threshold]
+http://t.co/c1n3xdvojm (0.008) [it was below the minShapeSize threshold]
+rewards (0.008) [it was below the minShapeSize threshold]
+https://t.co/bcgbu8rgds (0.008) [it was below the minShapeSize threshold]
+dia (0.008) [it was below the minShapeSize threshold]
+dc-area (0.008) [it was below the minShapeSize threshold]
+without (0.008) [it was below the minShapeSize threshold]
+strategic (0.008) [it was below the minShapeSize threshold]
+flows (0.008) [it was below the minShapeSize threshold]
+http://t.co/jnyxwf8bwv (0.008) [it was below the minShapeSize threshold]
+hawk (0.008) [it was below the minShapeSize threshold]
+@adcouncil (0.008) [it was below the minShapeSize threshold]
+https://t.co/nave4dppmw (0.008) [it was below the minShapeSize threshold]
+https://t.co/vdbrsjde4k (0.008) [it was below the minShapeSize threshold]
+reserve (0.008) [it was below the minShapeSize threshold]
+david (0.008) [it was below the minShapeSize threshold]
+http://t.co/il1xmfsmzg (0.008) [it was below the minShapeSize threshold]
+ratings (0.008) [it was below the minShapeSize threshold]
+http://t.co/utb4caxtsd (0.008) [it was below the minShapeSize threshold]
+http://t.co/pgoartwiqn (0.008) [it was below the minShapeSize threshold]
+shoutout (0.008) [it was below the minShapeSize threshold]
+foodies (0.008) [it was below the minShapeSize threshold]
+http://t.co/6ybphik7g8 (0.008) [it was below the minShapeSize threshold]
+des (0.008) [it was below the minShapeSize threshold]
+http://t.co/ohgbmsa0ig (0.008) [it was below the minShapeSize threshold]
+pair (0.008) [it was below the minShapeSize threshold]
+http://t.co/wub7e9pl2l (0.008) [it was below the minShapeSize threshold]
+stranger (0.008) [it was below the minShapeSize threshold]
+contact (0.008) [it was below the minShapeSize threshold]
+costs (0.008) [it was below the minShapeSize threshold]
+private (0.008) [it was below the minShapeSize threshold]
+empowering (0.008) [it was below the minShapeSize threshold]
+https://t.co/xgiinghpdw (0.008) [it was below the minShapeSize threshold]
+@travisk's (0.008) [it was below the minShapeSize threshold]
+partnerships (0.008) [it was below the minShapeSize threshold]
+dec (0.008) [it was below the minShapeSize threshold]
+money (0.008) [it was below the minShapeSize threshold]
+litter (0.008) [it was below the minShapeSize threshold]
+shifting (0.008) [it was below the minShapeSize threshold]
+campaign (0.008) [it was below the minShapeSize threshold]
+monument-sized (0.008) [it was below the minShapeSize threshold]
+@clutterdiet's (0.008) [it was below the minShapeSize threshold]
+http://t.co/qbqfxqwxy0 (0.008) [it was below the minShapeSize threshold]
+signed (0.008) [it was below the minShapeSize threshold]
+http://t.co/yfd5j5vipr (0.008) [it was below the minShapeSize threshold]
+dfw (0.008) [it was below the minShapeSize threshold]
+christmas (0.008) [it was below the minShapeSize threshold]
+http://t.co/e9vpzxcqhu (0.008) [it was below the minShapeSize threshold]
+mix (0.008) [it was below the minShapeSize threshold]
+@nickyhilton (0.008) [it was below the minShapeSize threshold]
+http://t.co/kp2j5zgomw (0.008) [it was below the minShapeSize threshold]
+http://t.co/kwhpztybwt (0.008) [it was below the minShapeSize threshold]
+http://t.co/uv5rnhcjgd (0.008) [it was below the minShapeSize threshold]
+http://t.co/lhtmowuvol (0.008) [it was below the minShapeSize threshold]
+fiori (0.008) [it was below the minShapeSize threshold]
+http://t.co/nm9kxmjuto (0.008) [it was below the minShapeSize threshold]
+pace (0.008) [it was below the minShapeSize threshold]
+arrests (0.008) [it was below the minShapeSize threshold]
+pack (0.008) [it was below the minShapeSize threshold]
+charity (0.008) [it was below the minShapeSize threshold]
+impact (0.008) [it was below the minShapeSize threshold]
+http://t.co/cfecdsqyzv (0.008) [it was below the minShapeSize threshold]
+@nhtsagov (0.008) [it was below the minShapeSize threshold]
+@techcrunch (0.008) [it was below the minShapeSize threshold]
+@jaredcbrossett (0.008) [it was below the minShapeSize threshold]
+combat (0.008) [it was below the minShapeSize threshold]
+http://t.co/lnqcspla59 (0.008) [it was below the minShapeSize threshold]
+http://t.co/guwt7ephjf (0.008) [it was below the minShapeSize threshold]
+food (0.008) [it was below the minShapeSize threshold]
+appt (0.008) [it was below the minShapeSize threshold]
+https://t.co/swond0zcdv (0.008) [it was below the minShapeSize threshold]
+http://t.co/dszxttzpsl (0.008) [it was below the minShapeSize threshold]
+putnam (0.008) [it was below the minShapeSize threshold]
+https://t.co/qyenjntdfv (0.008) [it was below the minShapeSize threshold]
+snapcat (0.008) [it was below the minShapeSize threshold]
+http://t.co/3o0g2jsejd (0.008) [it was below the minShapeSize threshold]
+http://t.co/ns8oqgcdtt (0.008) [it was below the minShapeSize threshold]
+http://t.co/2muqp40o8t (0.008) [it was below the minShapeSize threshold]
+100s (0.008) [it was below the minShapeSize threshold]
+push (0.008) [it was below the minShapeSize threshold]
+kentucky (0.008) [it was below the minShapeSize threshold]
+membershiprewards (0.008) [it was below the minShapeSize threshold]
+accidents (0.008) [it was below the minShapeSize threshold]
+atl (0.008) [it was below the minShapeSize threshold]
+girl (0.008) [it was below the minShapeSize threshold]
+gellman (0.008) [it was below the minShapeSize threshold]
+dig (0.008) [it was below the minShapeSize threshold]
+kittens (0.008) [it was below the minShapeSize threshold]
+@xocochicago (0.008) [it was below the minShapeSize threshold]
+http://t.co/prdoziyjcf (0.008) [it was below the minShapeSize threshold]
+phillip (0.008) [it was below the minShapeSize threshold]
+better+flexible (0.008) [it was below the minShapeSize threshold]
+nation's (0.008) [it was below the minShapeSize threshold]
+dancefloor (0.008) [it was below the minShapeSize threshold]
+elegance (0.008) [it was below the minShapeSize threshold]
+ya (0.008) [it was below the minShapeSize threshold]
+uberespañol (0.008) [it was below the minShapeSize threshold]
+bronze (0.008) [it was below the minShapeSize threshold]
+technologies (0.008) [it was below the minShapeSize threshold]
+katniss (0.008) [it was below the minShapeSize threshold]
+http://t.co/44ejcs0iak (0.008) [it was below the minShapeSize threshold]
+100k (0.008) [it was below the minShapeSize threshold]
+daughters (0.008) [it was below the minShapeSize threshold]
+http://t.co/blyxm4h5hl (0.008) [it was below the minShapeSize threshold]
+http://t.co/me51wbxilu (0.008) [it was below the minShapeSize threshold]

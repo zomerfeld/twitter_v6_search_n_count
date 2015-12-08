@@ -1,0 +1,1468 @@
+week (1.0)
+season (0.84782606)
+menu (0.7826087)
+recipe (0.73913044)
+dinner (0.67391306)
+weekend (0.6086956)
+make (0.5652174)
+next (0.5652174)
+summer (0.5)
+http://t.co/itmebefvq4 (0.45652175)
+squash (0.41304347)
+get (0.39130434)
+chefs (0.36956522)
+favorite (0.36956522)
+tomatoes (0.32608697)
+homemade (0.32608697)
+tonight (0.3043478)
+chicken (0.2826087)
+cooking (0.26086956)
+cook (0.23913044)
+corn (0.23913044)
+eggplant (0.23913044)
+time (0.2173913)
+need (0.2173913)
+cheese (0.2173913)
+blue (0.2173913)
+happy (0.2173913)
+perfect (0.2173913)
+apron (0.19565217)
+http://t.co/frnd4modvf (0.19565217)
+like (0.19565217)
+try (0.19565217)
+easy (0.19565217)
+fall (0.19565217)
+extra (0.17391305)
+now (0.17391305)
+love (0.17391305)
+keep (0.17391305)
+fresh (0.17391305)
+grilled (0.1521739)
+new (0.1521739)
+use (0.1521739)
+sweet (0.1521739)
+vegetarian (0.1521739)
+@food52 (0.1521739)
+apples (0.1521739)
+breakfast (0.1521739)
+sauce (0.1521739)
+fried (0.1521739)
+beans (0.13043478)
+zucchini (0.13043478)
+bbq (0.13043478)
+bachef (0.13043478)
+halloween (0.13043478)
+sprouts (0.13043478)
+just (0.13043478)
+details (0.13043478)
+check (0.13043478)
+delicious (0.13043478)
+ready (0.13043478)
+kitchen (0.13043478)
+hot (0.13043478)
+one (0.13043478)
+day (0.10869565)
+hello (0.10869565)
+green (0.10869565)
+quick (0.10869565)
+good (0.10869565)
+choy (0.10869565)
+kale (0.10869565)
+making (0.10869565)
+brussels (0.10869565)
+pasta (0.10869565)
+salmon (0.10869565)
+long (0.10869565)
+fourthofjuly (0.10869565)
+know (0.10869565)
+ways (0.10869565)
+salad (0.10869565)
+fruit (0.10869565)
+blossoms (0.10869565)
+via (0.10869565)
+crispy (0.10869565)
+cauliflower (0.10869565)
+ever (0.10869565)
+rice (0.10869565)
+trick (0.08695652)
+right (0.08695652)
+purple (0.08695652)
+red (0.08695652)
+never (0.08695652)
+marketing (0.08695652)
+leftover (0.08695652)
+whole (0.08695652)
+things (0.08695652)
+tips (0.08695652)
+cool (0.08695652)
+best (0.08695652)
+lunch (0.08695652)
+put (0.08695652)
+social@blueapron.com (0.08695652)
+pork (0.08695652)
+north (0.08695652)
+quote (0.08695652)
+projects (0.08695652)
+peas (0.08695652)
+mushrooms (0.08695652)
+stone (0.08695652)
+shrimp (0.08695652)
+fennel (0.08695652)
+ultimate (0.08695652)
+pizza (0.08695652)
+way (0.08695652)
+add (0.08695652)
+cheers (0.08695652)
+celebrate (0.08695652)
+two (0.08695652)
+away (0.08695652)
+cheesy (0.08695652)
+spring (0.08695652)
+reach (0.08695652)
+steak (0.08695652)
+please (0.08695652)
+three (0.08695652)
+food (0.08695652)
+ramen (0.08695652)
+seasonal (0.06521739)
+ingredients (0.06521739)
+bawine (0.06521739)
+made (0.06521739)
+@epicurious (0.06521739)
+side (0.06521739)
+basil (0.06521739)
+much (0.06521739)
+steaks (0.06521739)
+weeknight (0.06521739)
+burgers (0.06521739)
+onion (0.06521739)
+http://t.co/pqwlkllmzp (0.06521739)
+take (0.06521739)
+celeriac (0.06521739)
+help (0.06521739)
+sandwiches (0.06521739)
+getting (0.06521739)
+home (0.06521739)
+grill (0.06521739)
+apple (0.06521739)
+gooey (0.06521739)
+year (0.06521739)
+always (0.06521739)
+@thekitchn (0.06521739)
+back (0.06521739)
+burger (0.06521739)
+behind (0.06521739)
+got (0.06521739)
+tricks (0.06521739)
+watermelon (0.06521739)
+start (0.06521739)
+extragarlic (0.06521739)
+lemon (0.06521739)
+excited (0.06521739)
+merguez (0.06521739)
+heirloom (0.06521739)
+beef (0.06521739)
+matcha (0.06521739)
+egg (0.06521739)
+full (0.06521739)
+fish (0.06521739)
+father's (0.06521739)
+risotto (0.06521739)
+plate (0.06521739)
+seared (0.06521739)
+arepas (0.06521739)
+treats (0.06521739)
+win (0.06521739)
+chef (0.06521739)
+veggies (0.06521739)
+last (0.06521739)
+looks (0.06521739)
+potatoes (0.06521739)
+sausages (0.06521739)
+http://t.co/rhxz1o6bux (0.06521739)
+simple (0.06521739)
+fun (0.06521739)
+http://t.co/nbi9ar6fz8 (0.06521739)
+sum (0.06521739)
+top (0.06521739)
+garlic (0.06521739)
+http://t.co/aetehyxa3d (0.06521739)
+topping (0.06521739)
+kind (0.06521739)
+foodpuns (0.06521739)
+mix (0.06521739)
+dinners (0.06521739)
+warm (0.06521739)
+pepper (0.06521739)
+diy (0.06521739)
+minute (0.06521739)
+meal (0.06521739)
+cherry (0.06521739)
+pizzas (0.04347826)
+party (0.04347826)
+pairing (0.04347826)
+answer (0.04347826)
+http://t.co/7tg2oyr5lr (0.04347826)
+http://t.co/4aysfnhgx4 (0.04347826)
+tell (0.04347826)
+cutting (0.04347826)
+pita (0.04347826)
+http://t.co/egtitwrdk2 (0.04347826)
+grapes (0.04347826)
+dad (0.04347826)
+pumpkin (0.04347826)
+lacinato (0.04347826)
+perloo (0.04347826)
+frozen (0.04347826)
+http://t.co/lzjfi7n0x8 (0.04347826)
+talk (0.04347826)
+shandy (0.04347826)
+pan (0.04347826)
+acorn (0.04347826)
+adding (0.04347826)
+tomato (0.04347826)
+panko (0.04347826)
+honey (0.04347826)
+everyone (0.04347826)
+http://t.co/cotmf4agb6 (0.04347826)
+satisfying (0.04347826)
+star (0.04347826)
+fourth (0.04347826)
+http://t.co/hp2avgvgay (0.04347826)
+icymi (0.04347826)
+season's (0.04347826)
+mustard (0.04347826)
+monday (0.04347826)
+spices (0.04347826)
+cooler (0.04347826)
+enter (0.04347826)
+cucumbers (0.04347826)
+salads (0.04347826)
+stew (0.04347826)
+summer's (0.04347826)
+hearty (0.04347826)
+soup (0.04347826)
+prep (0.04347826)
+sunday (0.04347826)
+lot (0.04347826)
+greens (0.04347826)
+press (0.04347826)
+life (0.04347826)
+mccallister (0.04347826)
+matt (0.04347826)
+picking (0.04347826)
+cod (0.04347826)
+@nytimes (0.04347826)
+spaghetti (0.04347826)
+chia (0.04347826)
+ios (0.04347826)
+upgrade (0.04347826)
+bell (0.04347826)
+week's (0.04347826)
+case (0.04347826)
+crust (0.04347826)
+celebrating (0.04347826)
+quickcookingtips (0.04347826)
+peaches (0.04347826)
+panini (0.04347826)
+kindredspirits (0.04347826)
+house (0.04347826)
+candy (0.04347826)
+http://t.co/ntpd3nrskb (0.04347826)
+ingredient (0.04347826)
+romesco (0.04347826)
+fillets (0.04347826)
+cabbage (0.04347826)
+vegetarians (0.04347826)
+romano (0.04347826)
+spice (0.04347826)
+romanesco (0.04347826)
+https://t.co/i9nm1tinmr (0.04347826)
+let (0.04347826)
+https://t.co/vrvt3hcbno (0.04347826)
+ooey (0.04347826)
+skin (0.04347826)
+http://t.co/cira2jmyul (0.04347826)
+cold (0.04347826)
+july (0.04347826)
+http://t.co/d0kybtwvvl (0.04347826)
+cake (0.04347826)
+http://t.co/bvyok1h56w (0.04347826)
+chow (0.04347826)
+granola (0.04347826)
+@westelm (0.04347826)
+calling (0.04347826)
+pickled (0.04347826)
+radish (0.04347826)
+chops (0.04347826)
+special (0.04347826)
+first (0.04347826)
+average (0.04347826)
+using (0.04347826)
+store (0.04347826)
+featuring (0.04347826)
+entertaining (0.04347826)
+butter (0.04347826)
+keeping (0.04347826)
+peppers (0.04347826)
+strawberries (0.04347826)
+fluffy (0.04347826)
+edition (0.04347826)
+salsa (0.04347826)
+http://t.co/yqpj1v2hyp (0.04347826)
+learn (0.04347826)
+http://t.co/4ot6sa9ijw (0.04347826)
+@zolaregistry (0.04347826)
+holiday (0.04347826)
+better (0.04347826)
+asparagus (0.04347826)
+remember (0.04347826)
+met (0.04347826)
+five (0.04347826)
+still (0.04347826)
+wedding (0.04347826)
+herbs (0.04347826)
+french (0.04347826)
+bread (0.04347826)
+feast (0.04347826)
+toast (0.04347826)
+board (0.04347826)
+http://t.co/n9nxkyhks1 (0.04347826)
+recipes (0.04347826)
+veggie (0.04347826)
+grains (0.04347826)
+produce (0.04347826)
+sometimes (0.04347826)
+savory (0.04347826)
+ft33 (0.04347826)
+peel (0.04347826)
+skillet (0.04347826)
+guide (0.04347826)
+knew (0.04347826)
+serve (0.04347826)
+turn (0.04347826)
+going (0.04347826)
+https://t.co/itmebefvq4 (0.04347826)
+soiree (0.04347826)
+give (0.04347826)
+smarter (0.04347826)
+http://t.co/et3xwyosy2 (0.04347826)
+seeds (0.04347826)
+tortas (0.04347826)
+kick (0.04347826)
+thai (0.04347826)
+meatballs (0.04347826)
+slider (0.04347826)
+sun (0.04347826)
+needed (0.04347826)
+raja (0.04347826)
+hubba (0.04347826)
+bring (0.04347826)
+tip (0.04347826)
+https://t.co/6vw2srgze2 (0.04347826)
+weather (0.04347826)
+choose (0.04347826)
+wine (0.04347826)
+recycle (0.04347826)
+quicktip (0.04347826)
+registry (0.04347826)
+http://t.co/hpou44m283 (0.04347826)
+coconut (0.04347826)
+dallas (0.04347826)
+flavors (0.04347826)
+want (0.04347826)
+tbt (0.04347826)
+@nprfood (0.04347826)
+app (0.04347826)
+tenders (0.04347826)
+little (0.04347826)
+rings (0.04347826)
+even (0.04347826)
+http://t.co/oujobywqah (0.04347826)
+sunny (0.04347826)
+broccoli (0.04347826)
+africa (0.04347826)
+pulled (0.04347826)
+crowd (0.04347826)
+secret (0.04347826)
+http://t.co/pidr06ytsp (0.02173913)
+http://t.co/td7sr6ugsp (0.02173913)
+@communitygrains (0.02173913)
+bacon (0.02173913)
+http://t.co/sovpoyjk6j (0.02173913)
+chance (0.02173913)
+http://t.co/2lizsc7i5v (0.02173913)
+http://t.co/dauhar5enh (0.02173913)
+http://t.co/qs3bkvtnae (0.02173913)
+http://t.co/omc2it4wuk (0.02173913)
+purveyors (0.02173913)
+adaptable (0.02173913)
+http://t.co/zl3jxq7rwv (0.02173913)
+http://t.co/lpgv64dlak (0.02173913)
+http://t.co/cnrpsesaif (0.02173913)
+butternut (0.02173913)
+http://t.co/aipgm18uc3 (0.02173913)
+fettuccine (0.02173913)
+frankfurters (0.02173913)
+http://t.co/u4ub6fdcjj (0.02173913)
+told (0.02173913)
+http://t.co/lzizxr2w6b (0.02173913)
+bbq-spiced (0.02173913)
+meet (0.02173913)
+http://t.co/rgt7dtmugs (0.02173913)
+project (0.02173913)
+http://t.co/kwmxuqokhm (0.02173913)
+pocket (0.02173913)
+http://t.co/9lpwqsymip (0.02173913)
+bite (0.02173913)
+shepard's (0.02173913)
+http://t.co/xkltpkysbg (0.02173913)
+guacamole (0.02173913)
+quality (0.02173913)
+refrigerating (0.02173913)
+big (0.02173913)
+http://t.co/atmahzuo4a (0.02173913)
+take-out (0.02173913)
+http://t.co/vlfxhdzve3 (0.02173913)
+http://t.co/exdaggek1p (0.02173913)
+http://t.co/raljdmshrq (0.02173913)
+http://t.co/pceqipkdcb (0.02173913)
+http://t.co/vcdpay37wi (0.02173913)
+scenes (0.02173913)
+lettuce (0.02173913)
+marjoram (0.02173913)
+https://t.co/wyeyqy8og2 (0.02173913)
+crunchy (0.02173913)
+pancakes (0.02173913)
+http://t.co/l4xhem3hzx (0.02173913)
+http://t.co/uzfqueyyur (0.02173913)
+interesting (0.02173913)
+centerpieces (0.02173913)
+http://t.co/gmxdndtwvh (0.02173913)
+cocktails (0.02173913)
+http://t.co/zwg87awewg (0.02173913)
+https://t.co/yrsgp7tixh (0.02173913)
+http://t.co/cdfpbhuukx (0.02173913)
+http://t.co/gkcmgq8gxt (0.02173913)
+fruits (0.02173913)
+bars (0.02173913)
+http://t.co/7uft6k11vg (0.02173913)
+hour (0.02173913)
+enjoy (0.02173913)
+make-ahead (0.02173913)
+puttanesca (0.02173913)
+http://t.co/znonjr1bqd (0.02173913)
+labor (0.02173913)
+http://t.co/jcio80u9is (0.02173913)
+utility (0.02173913)
+http://t.co/fvjvwlkavu (0.02173913)
+guest (0.02173913)
+http://t.co/7n7uterolb (0.02173913)
+picky (0.02173913)
+http://t.co/ko98gs8uyp (0.02173913)
+yogurt (0.02173913)
+http://t.co/sp94gtbcwo (0.02173913)
+change (0.02173913)
+nicoise (0.02173913)
+tool (0.02173913)
+bok (0.02173913)
+http://t.co/gnqu11egf3 (0.02173913)
+leaf (0.02173913)
+scapes (0.02173913)
+http://t.co/mihrzyqm95 (0.02173913)
+http://t.co/30jmlfptkj (0.02173913)
+fats (0.02173913)
+http://t.co/nfmjz4nrpd (0.02173913)
+jam (0.02173913)
+chives (0.02173913)
+oregano (0.02173913)
+gourmet (0.02173913)
+toastiest (0.02173913)
+alongside (0.02173913)
+@emmacaulfield (0.02173913)
+http://t.co/ck4sosfmdo (0.02173913)
+cream (0.02173913)
+http://t.co/t1r07l5hlr (0.02173913)
+https://t.co/g5txkxjusv (0.02173913)
+cutlets (0.02173913)
+http://t.co/l4mx8ykjto (0.02173913)
+items (0.02173913)
+https://t.co/fgdbdd3iiu (0.02173913)
+http://t.co/jjbfep0zgf (0.02173913)
+tough (0.02173913)
+https://t.co/mli4sjsrqb (0.02173913)
+endives (0.02173913)
+pageants (0.02173913)
+http://t.co/wxwlcb2cly (0.02173913)
+https://t.co/unwvbsv0aw (0.02173913)
+http://t.co/znhr6gofru (0.02173913)
+http://t.co/rgo93m2nuc (0.02173913)
+crunch (0.02173913)
+grad (0.02173913)
+wondered (0.02173913)
+http://t.co/ddpufqeula (0.02173913)
+candy-filled (0.02173913)
+https://t.co/1e2d1czdsk (0.02173913)
+drinks (0.02173913)
+http://t.co/r04wbsinyn (0.02173913)
+http://t.co/dnm0nkuoel (0.02173913)
+http://t.co/l (0.02173913)
+crafted (0.02173913)
+http://t.co/o66zobgba7 (0.02173913)
+brightness (0.02173913)
+https://t.co/nvusm28gex (0.02173913)
+eggsonclouds (0.02173913)
+http://t.co/oupfp3x2iy (0.02173913)
+http://t.co/xwxpxgrixf (0.02173913)
+http://t.co/lxasr6may7 (0.02173913)
+http://t.co/q78ynvqg2i (0.02173913)
+http://t.co/k4ip5tmfs2 (0.02173913)
+http://t.co/9ioo5rqa7d (0.02173913)
+http://t.co/mzvuthdsb5 (0.02173913)
+http://t.co/rmgo8bxkvz (0.02173913)
+mazemen (0.02173913)
+peach (0.02173913)
+http://t.co/rmzcocnpjz (0.02173913)
+foolproof (0.02173913)
+polenta (0.02173913)
+http://t.co/8tpivghh5d (0.02173913)
+box (0.02173913)
+cal-zone (0.02173913)
+boy (0.02173913)
+http://t.co/wuaqha2s2w (0.02173913)
+cup (0.02173913)
+peanut (0.02173913)
+http://t.co/z2xsxvnqbe (0.02173913)
+broth (0.02173913)
+cajun-spiced (0.02173913)
+http://t.co/g9yggx805n (0.02173913)
+http://t.co/byxndhnueb (0.02173913)
+sauté (0.02173913)
+http://t.co/acqfme20hm (0.02173913)
+https://t.co/w6oskgbjvu (0.02173913)
+hey (0.02173913)
+sippin (0.02173913)
+http://t.co/ur0kza6qc7 (0.02173913)
+http://t.co/glxrf1a1bw (0.02173913)
+https://t.co/mnq2wgyrja (0.02173913)
+http://t.co/cytmvha0ga (0.02173913)
+http://t.co/il31igdjvw (0.02173913)
+startup (0.02173913)
+http://t.co/v8glz1m3yu (0.02173913)
+http://t.co/ytpo4vznl7 (0.02173913)
+http://t.co/giobuwy5o8 (0.02173913)
+http://t.co/fe59amvarp (0.02173913)
+vegetable (0.02173913)
+http://t.co/277xqvih4a (0.02173913)
+http://t.co/wpcudmilng (0.02173913)
+binder (0.02173913)
+http://t.co/uqftoy2uyk (0.02173913)
+http://t.co/5df1vvc4fp (0.02173913)
+announce (0.02173913)
+proof (0.02173913)
+http://t.co/poqkdvpdpf (0.02173913)
+http://t.co/spkzkfi9xg (0.02173913)
+palak (0.02173913)
+thank (0.02173913)
+rolling (0.02173913)
+baguestchef (0.02173913)
+http://t.co/cymwgcq04j (0.02173913)
+casserollin (0.02173913)
+http://t.co/xyesxcykii (0.02173913)
+september (0.02173913)
+paillards (0.02173913)
+http://t.co/toti9urtqt (0.02173913)
+http://t.co/1gpghtbydp (0.02173913)
+https://t.co/58us2uiggi (0.02173913)
+stay (0.02173913)
+pea (0.02173913)
+beautiful (0.02173913)
+https://t.co/kenb3nujsf (0.02173913)
+http://t.co/iozjlrnqaf (0.02173913)
+beets (0.02173913)
+artisans (0.02173913)
+tandoori (0.02173913)
+http://t.co/xbreh6x0uh (0.02173913)
+https://t.co/gouwy9jzlf (0.02173913)
+http://t.co/e47nng97nx (0.02173913)
+defies (0.02173913)
+http://t.co/pal5xputnc (0.02173913)
+fishing (0.02173913)
+http://t.co/dwwfyjd6qz (0.02173913)
+http://t.co/rd21r3s5fr (0.02173913)
+everything's (0.02173913)
+http://t.co/wfybwiuyux (0.02173913)
+literally (0.02173913)
+http://t.co/rfkcxbloz7 (0.02173913)
+snap (0.02173913)
+http://t.co/xky4re1oky (0.02173913)
+ricotta (0.02173913)
+http://t.co/ttlfdup1ol (0.02173913)
+mess (0.02173913)
+since (0.02173913)
+every (0.02173913)
+carve (0.02173913)
+http://t.co/yytdxr7ipo (0.02173913)
+http://t.co/boszxjdnst (0.02173913)
+shave (0.02173913)
+https://t.co/qydphor73x (0.02173913)
+http://t.co/ibjcauwwof (0.02173913)
+http://t.co/qwjipta6qj (0.02173913)
+miracles (0.02173913)
+@thenewpotato (0.02173913)
+http://t.co/xyz4o1bzpc (0.02173913)
+hothoney (0.02173913)
+http://t.co/6mqlpj01fh (0.02173913)
+family (0.02173913)
+http://t.co/gwnupytvnm (0.02173913)
+seriously (0.02173913)
+http://t.co/nsnvapk3lw (0.02173913)
+http://t.co/k8wlgzwtqm (0.02173913)
+bed (0.02173913)
+easier (0.02173913)
+5-ingredient (0.02173913)
+meant (0.02173913)
+http://t.co/uie4z3qohl (0.02173913)
+http://t.co/xw1rjnehmy (0.02173913)
+http://t.co/svtoub2sxo (0.02173913)
+lentils (0.02173913)
+exciting (0.02173913)
+http://t.co/a0yrx9pihg (0.02173913)
+dress (0.02173913)
+locks (0.02173913)
+rainbow (0.02173913)
+https://t.co/hrs3fgtf0n (0.02173913)
+http://t.co/vhsgqlsbgo (0.02173913)
+african (0.02173913)
+http://t.co/om7sjbz8rb (0.02173913)
+https://t.co/gfgsjyx52m (0.02173913)
+wondering (0.02173913)
+blossom (0.02173913)
+https://t.co/4jkrewkivi (0.02173913)
+http://t.co/j08q7h7h47 (0.02173913)
+http://t.co/kdu86fywoi (0.02173913)
+http://t.co/ekmfjatmt9 (0.02173913)
+http://t.co/5dbphzbzyk (0.02173913)
+https://t.co/dfyg6etqqa (0.02173913)
+http://t.co/ppympfr02d (0.02173913)
+http://t.co/olgtthu5sh (0.02173913)
+gives (0.02173913)
+spooky (0.02173913)
+http://t.co/fbctihl63d (0.02173913)
+indian (0.02173913)
+http://t.co/sawh5jazzo (0.02173913)
+problem (0.02173913)
+http://t.co/pdeqkog5nj (0.02173913)
+pie (0.02173913)
+http://t.co/g7kb79bioj (0.02173913)
+kitchensafety (0.02173913)
+http://t.co/s6qmr5xsln (0.02173913)
+brownie (0.02173913)
+night (0.02173913)
+chopsticks (0.02173913)
+technique (0.02173913)
+maintain (0.02173913)
+@lucyuncorked (0.02173913)
+http://t.co/dinqw6lpxz (0.02173913)
+eyes (0.02173913)
+nationalchickenwing (0.02173913)
+https://t.co/kp3j3jacu7 (0.02173913)
+http://t.co/rtx2cj2wm0 (0.02173913)
+yeah (0.02173913)
+13th (0.02173913)
+muffin (0.02173913)
+http://t.co/7drjawzhpx (0.02173913)
+http://t.co/iqmmg8y5m3 (0.02173913)
+http://t.co/2uxlrllrxu (0.02173913)
+cheat (0.02173913)
+sour (0.02173913)
+goodbye (0.02173913)
+yum (0.02173913)
+http://t.co/gouhu1bix2 (0.02173913)
+quinoa (0.02173913)
+maduros (0.02173913)
+four-ingredient (0.02173913)
+loaded (0.02173913)
+http://t.co/7k31gt2txr (0.02173913)
+http://t.co/bry7qfmynp (0.02173913)
+lox (0.02173913)
+http://t.co/ch0opwnqq5 (0.02173913)
+https://t.co/uibypgx37a (0.02173913)
+letting (0.02173913)
+fanciest (0.02173913)
+is....brussels (0.02173913)
+american (0.02173913)
+http://t.co/8n8hjwpybt (0.02173913)
+http://t.co/n4l5fik7zh (0.02173913)
+gold (0.02173913)
+http://t.co/trrkpklxhx (0.02173913)
+chips (0.02173913)
+http://t.co/yar31k2dha (0.02173913)
+http://t.co/0dyvesdytm (0.02173913)
+trust (0.02173913)
+seed (0.02173913)
+chard (0.02173913)
+http://t.co/60rjgsvjsj (0.02173913)
+come (0.02173913)
+http://t.co/1hphdpelfl (0.02173913)
+presenting (0.02173913)
+alfredo (0.02173913)
+south (0.02173913)
+http://t.co/jzkh0e8ipk (0.02173913)
+quickly (0.02173913)
+http://t.co/gibc0tehy6 (0.02173913)
+con (0.02173913)
+https://t.co/7ysgq2in11 (0.02173913)
+http://t.co/q9juhrglrw (0.02173913)
+busy (0.02173913)
+scrambled (0.02173913)
+http://t.co/ol0avjsjiw (0.02173913)
+plantains (0.02173913)
+https://t.co/oazgfnc5uw (0.02173913)
+lime-crema (0.02173913)
+http://t.co/0wc6jtabl7 (0.02173913)
+http://t.co/lf7qqfuxf2 (0.02173913)
+dressing (0.02173913)
+mainstream (0.02173913)
+imagine (0.02173913)
+http://t.co/fjsa99aepo (0.02173913)
+farro (0.02173913)
+squash...https://t.co/b2xs4ozpgm (0.02173913)
+explains (0.02173913)
+https://t.co/0wchfnucit (0.02173913)
+http://t.co/avduf8420n (0.02173913)
+https://t.co/frnd4modvf (0.02173913)
+eggs (0.02173913)
+http://t.co/61ko1ds3yn (0.02173913)
+http://t.co/lxbrg8gfvn (0.02173913)
+http://t.co/ujbq9ucsl0 (0.02173913)
+frittata (0.02173913)
+https://t.co/buuijrjvo9 (0.02173913)
+http://t.co/n7houm0wj0 (0.02173913)
+http://t.co/sjg65bnbkd (0.02173913)
+sorts (0.02173913)
+tahini (0.02173913)
+http://t.co/obavvigvfb (0.02173913)
+http://t.co/3jb9s6xwtt (0.02173913)
+http://t.co/amkdhzmepl (0.02173913)
+jambalaya (0.02173913)
+http://t.co/i03uysut0q (0.02173913)
+http://t.co/ijexp04jsm (0.02173913)
+http://t.co/pafvxx6u9n (0.02173913)
+https://t.co/kjkmujqohj (0.02173913)
+http://t.co/hnebhlc9so (0.02173913)
+http://t.co/vyulyzda2g (0.02173913)
+paella (0.02173913)
+introducing (0.02173913)
+http://t.co/iyeuut25ph (0.02173913)
+http://t.co/lcr2zfkuu6 (0.02173913)
+soups (0.02173913)
+http://t.co/kcn5cpbz3x (0.02173913)
+http://t.co/wzindob88g (0.02173913)
+camera (0.02173913)
+http://t.co/21su2ssvcp (0.02173913)
+psa (0.02173913)
+http://t.co/ywvrikijl3 (0.02173913)
+regret (0.02173913)
+reference (0.02173913)
+chili (0.02173913)
+https://t.co/erqstcg5q8 (0.02173913)
+foods (0.02173913)
+http://t.co/qvfpuidxct (0.02173913)
+http://t.co/cdq0zxl5x9 (0.02173913)
+learned (0.02173913)
+https://t.co/2celie5xqn (0.02173913)
+http://t.co/qfwxgmrmoc (0.02173913)
+crunchiest (0.02173913)
+breads (0.02173913)
+potato (0.02173913)
+http://t.co/ljrivw4u7n (0.02173913)
+http://t.co/vbmyiiypif (0.02173913)
+https://t.co/9gotg66jvr (0.02173913)
+everything (0.02173913)
+https://t.co/uhqu0fbgap (0.02173913)
+http://t.co/o7toej5kp0 (0.02173913)
+@dirtcandy (0.02173913)
+https://t.co/eziyqu1cdz (0.02173913)
+customize (0.02173913)
+milk (0.02173913)
+http://t.co/bygdxyc5v4 (0.02173913)
+http://t.co/1sjunpigxq (0.02173913)
+http://t.co/lfygu4xeda (0.02173913)
+nights (0.02173913)
+arrived (0.02173913)
+http://t.co/dp0vzdl3se (0.02173913)
+http://t.co/5gwkxqfj1l (0.02173913)
+http://t.co/39zjocqvyt (0.02173913)
+parfait (0.02173913)
+http://t.co/zqlqnkvauq (0.02173913)
+snacks (0.02173913)
+http://t.co/l86vofymgj (0.02173913)
+http://t.co/rygy0qqqll (0.02173913)
+http://t.co/mw6nqdq1di (0.02173913)
+saw (0.02173913)
+years (0.02173913)
+@forbes (0.02173913)
+outside (0.02173913)
+lovers (0.02173913)
+http://t.co/6r8uvjb5nb (0.02173913)
+http://t.co/olgrwywyig (0.02173913)
+salmon's (0.02173913)
+http://t.co/vjhyekcvao (0.02173913)
+https://t.co/snutiz4vl9 (0.02173913)
+tacos (0.02173913)
+http://t.co/wq33rfhnjj (0.02173913)
+pierogis (0.02173913)
+http://t.co/7n0tgy4bvl (0.02173913)
+https://t.co/lefaatqrgq (0.02173913)
+http://t.co/1xwmak5weu (0.02173913)
+mind (0.02173913)
+http://t.co/typ7hjxeei (0.02173913)
+http://t.co/eu9kdt8oru (0.02173913)
+eater (0.02173913)
+http://t.co/2crrpfjcc4 (0.02173913)
+containers (0.02173913)
+http://t.co/9xbwagcfpz (0.02173913)
+lime (0.02173913)
+http://t.co/t3o0zh1b4q (0.02173913)
+one-pot (0.02173913)
+tequila (0.02173913)
+patty (0.02173913)
+http://t.co/e9u9ey7neq (0.02173913)
+http://t.co/m5nexz2bss (0.02173913)
+chefpanda (0.02173913)
+italian (0.02173913)
+http://t.co/qvdahlftp3 (0.02173913)
+introduce (0.02173913)
+adds (0.02173913)
+https://t.co/2fougqgf4e (0.02173913)
+beach (0.02173913)
+http://t.co/eyyvwh6ypk (0.02173913)
+pops (0.02173913)
+together (0.02173913)
+http://t.co/vx1udsemh9 (0.02173913)
+https://t.co/qxgrqza5cy (0.02173913)
+http://t.co/2bul7ixpbh (0.02173913)
+http://t.co/cl0fgomcsk (0.02173913)
+http://t.co/f0sqpbjzht (0.02173913)
+lunches (0.02173913)
+http://t.co/cuthfk3cwv (0.02173913)
+shoots (0.02173913)
+coli (0.02173913)
+http://t.co/4zthvz5nrp (0.02173913)
+genovese-style (0.02173913)
+craving (0.02173913)
+outage (0.02173913)
+goes (0.02173913)
+calzones (0.02173913)
+fairfood (0.02173913)
+http://t.co/eareq2li0c (0.02173913)
+mmhmm (0.02173913)
+nuttiness (0.02173913)
+http://t.co/tghi16wats (0.02173913)
+seafood (0.02173913)
+surprising (0.02173913)
+https://t.co/wxykurfyva (0.02173913)
+http://t.co/sjpx2w0cnf (0.02173913)
+town (0.02173913)
+http://t.co/y7msdpznrs (0.02173913)
+http://t.co/o5l21xafxa (0.02173913)
+decide (0.02173913)
+http://t.co/mg4tvg9j0a (0.02173913)
+http://t.co/qhywyepd2w (0.02173913)
+http://t.co/pdp02ydm68 (0.02173913)
+http://t.co/17ng2xkknj (0.02173913)
+http://t.co/zbhouhiicr (0.02173913)
+https://t.co/xsu1vogmtk (0.02173913)
+gearing (0.02173913)
+kid-friendly (0.02173913)
+http://t.co/arwigbh5cf (0.02173913)
+farms (0.02173913)
+leader (0.02173913)
+@eater (0.02173913)
+http://t.co/5upkgatlpn (0.02173913)
+https://t.co/mgqx74cgx8 (0.02173913)
+http://t.co/gyk6azmu4y (0.02173913)
+snack-on-a-stick (0.02173913)
+http://t.co/v2ilabu4gc (0.02173913)
+http://t.co/0ufqkoyeyq (0.02173913)
+http://t.co/sscxwmkn4c (0.02173913)
+http://t.co/ned4qpwdoy (0.02173913)
+http://t.co/mgyvfudsht (0.02173913)
+century (0.02173913)
+fathersday (0.02173913)
+came (0.02173913) [it was below the minShapeSize threshold]
+around (0.02173913)
+http://t.co/3erbh6evqq (0.02173913)
+goals (0.02173913)
+fridge (0.02173913)
+http://t.co/fucgpt3oz4 (0.02173913)
+instead (0.02173913)
+http://t.co/m0j39hruwz (0.02173913)
+http://t.co/qm0iyr6yix (0.02173913)
+http://t.co/wjjc6ednc4 (0.02173913)
+miso (0.02173913)
+http://t.co/gqfno1zaod (0.02173913)
+http://t.co/cp3n0mthn8 (0.02173913)
+http://t.co/9uydd8vpp8 (0.02173913)
+@altonbrown (0.02173913)
+http://t.co/0zn6xsa4bi (0.02173913)
+wait (0.02173913)
+@divafern (0.02173913)
+missing (0.02173913)
+story (0.02173913)
+ajo (0.02173913)
+http://t.co/k3njzxc7tc (0.02173913)
+oven (0.02173913) [it was below the minShapeSize threshold]
+cheeses (0.02173913)
+http://t.co/wq33fhe761 (0.02173913)
+features (0.02173913)
+http://t.co/7x6eo8fe51 (0.02173913)
+http://t.co/mfqomleqee (0.02173913)
+http://t.co/ntm2csem0w (0.02173913)
+something (0.02173913)
+http://t.co/lx5tabcjlo (0.02173913)
+http://t.co/cixqyzgq9q (0.02173913)
+deep (0.02173913)
+http://t.co/ldje20loly (0.02173913)
+kit (0.02173913)
+http://t.co/mfaupclaue (0.02173913)
+https://t.co/wpmy3gmg6c (0.02173913)
+http://t.co/g7zrg0zrrk (0.02173913)
+http://t.co/wayjx9ziga (0.02173913)
+soba (0.02173913)
+http://t.co/50qytqzpny (0.02173913)
+amid (0.02173913)
+http://t.co/3vcgycohap (0.02173913)
+magic (0.02173913)
+poboys (0.02173913)
+gin (0.02173913)
+soak (0.02173913)
+cleaner (0.02173913)
+impress (0.02173913)
+separately (0.02173913)
+eat (0.02173913)
+http://t.co/ozdsckoldj (0.02173913)
+http://t.co/q6jejigmrt (0.02173913)
+https://t.co/bgopkp8e6w (0.02173913)
+gift (0.02173913)
+barely (0.02173913)
+peak (0.02173913)
+http://t.co/vbey4oofgy (0.02173913)
+http://t.co/orrho1lb23 (0.02173913)
+http://t.co/sbfqxlgwir (0.02173913)
+http://t.co/8e0pphekbz (0.02173913)
+http://t.co/szvo1vjmvf (0.02173913)
+five-ingredient (0.02173913)
+http://t.co/dopdk3ecdq (0.02173913)
+http://t.co/3ekiimgmdx (0.02173913)
+@jordanrcrook (0.02173913)
+shandies (0.02173913)
+cookies (0.02173913)
+http://t.co/prwlucrck1 (0.02173913)
+http://t.co/uvz4oihlih (0.02173913)
+sheet (0.02173913)
+http://t.co/dzr0j1vbrj (0.02173913)
+throwbackthursday (0.02173913)
+https://t.co/mz42okdmti (0.02173913)
+needs (0.02173913)
+http://t.co/r1fcgkyspd (0.02173913)
+bakin (0.02173913)
+traditional (0.02173913)
+yes (0.02173913)
+sit (0.02173913)
+http://t.co/xd4bnovlcv (0.02173913)
+chocolate (0.02173913)
+barley (0.02173913)
+yep (0.02173913)
+http://t.co/pvoljbtml3 (0.02173913)
+http://t.co/io9crlvuzj (0.02173913)
+zester (0.02173913) [it was below the minShapeSize threshold]
+@alexrkonrad (0.02173913)
+yet (0.02173913)
+http://t.co/29hxljpupn (0.02173913)
+catfish (0.02173913)
+rocking (0.02173913)
+http://t.co/faaku3czez (0.02173913)
+http://t.co/udktld0ksi (0.02173913)
+normal (0.02173913)
+award (0.02173913)
+http://t.co/pjyjzgce7f (0.02173913)
+nationalsandwichday (0.02173913)
+taste (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/pkav3nol71 (0.02173913)
+http://t.co/73lidmy40m (0.02173913)
+future (0.02173913)
+choosing (0.02173913)
+https://t.co/sjfravwrnq (0.02173913)
+http://t.co/6r1ccj2ay1 (0.02173913)
+https://t.co/q5gilgn98z (0.02173913)
+everybody (0.02173913)
+pinterest (0.02173913)
+ratatouille (0.02173913)
+http://t.co/iyk8tm4pa8 (0.02173913)
+http://t.co/7gnj5hftqi (0.02173913)
+@msnbc (0.02173913)
+http://t.co/suysmggxou (0.02173913)
+https://t.co/1xcukee9xp (0.02173913)
+http://t.co/mvycabpou7 (0.02173913)
+http://t.co/84bcqctmo9 (0.02173913)
+http://t.co/8s6mmyvwdu (0.02173913)
+http://t.co/qxqatjtpyi (0.02173913)
+tooth (0.02173913)
+http://t.co/bnpgxdhr8n (0.02173913)
+vietnamese-style (0.02173913)
+http://t.co/jr7qffrahd (0.02173913)
+straight (0.02173913)
+sunny-side (0.02173913)
+http://t.co/org0aryfbo (0.02173913)
+melty (0.02173913)
+chipotle (0.02173913)
+http://t.co/jlta8qr2lv (0.02173913)
+today (0.02173913)
+lighter (0.02173913)
+throw (0.02173913)
+headed (0.02173913)
+pop-tail (0.02173913)
+nationaltequiladay (0.02173913)
+ice (0.02173913)
+http://t.co/ywnvcroonk (0.02173913)
+http://t.co/jgswz7mvvv (0.02173913)
+http://t.co/0d4uszrylr (0.02173913)
+trip (0.02173913)
+http://t.co/v6xuhfoahv (0.02173913)
+types (0.02173913)
+http://t.co/pd3jkiyfoz (0.02173913)
+restaurants (0.02173913) [it was below the minShapeSize threshold]
+endive (0.02173913)
+http://t.co/2l6ihzmivs (0.02173913)
+culinary (0.02173913)
+roast (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/nfjtfnoimn (0.02173913)
+recipe-ready (0.02173913)
+http://t.co/64qkujmr6l (0.02173913)
+sandwich (0.02173913)
+see (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/kxwcqfhybp (0.02173913)
+http://t.co/iewyho2uh9 (0.02173913)
+brinner (0.02173913)
+http://t.co/rtzsiykktn (0.02173913)
+forget (0.02173913)
+nationalfrenchfryday (0.02173913)
+day...who's (0.02173913)
+prettiest (0.02173913)
+http://t.co/mcswneknja (0.02173913)
+http://t.co/qrwgyiclg9 (0.02173913)
+nobody (0.02173913)
+http://t.co/ipeugdt3al (0.02173913)
+dumpling (0.02173913)
+street (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/gxgndj2iye (0.02173913)
+http://t.co/8n1t7qjluq (0.02173913)
+parmesan (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/i3bogwumir (0.02173913)
+fridgefoods (0.02173913)
+http://t.co/cxrirwdc1x (0.02173913)
+spf (0.02173913)
+nationalpumpkin (0.02173913)
+burnt (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/h1bllhc5qm (0.02173913)
+http://t.co/q2xb7dw1zk (0.02173913)
+http://t.co/hom4awvgvw (0.02173913)
+fully (0.02173913)
+oh (0.02173913) [it was below the minShapeSize threshold]
+paneer (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/7nllsd1pjq (0.02173913)
+http://t.co/51iewe8gta (0.02173913)
+done (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/bjdjr2jl4x (0.02173913)
+http://t.co/kzpo1ssn2c (0.02173913)
+http://t.co/bjotmgg6ir (0.02173913)
+http://t.co/98xwfdjjzz (0.02173913)
+loving (0.02173913)
+http://t.co/cogvvkrhas (0.02173913)
+https://t.co/rbqc8al6km (0.02173913)
+melon (0.02173913) [it was below the minShapeSize threshold]
+thinking (0.02173913)
+http://t.co/yu6mpbttnj (0.02173913)
+bites (0.02173913) [it was below the minShapeSize threshold]
+collard (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/97baci5alc (0.02173913)
+delivery (0.02173913)
+https://t.co/hpwkf8410z (0.02173913)
+small (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/es2pjglitc (0.02173913)
+http://t.co/6vqrtliqsd (0.02173913)
+sloppyjoes (0.02173913)
+deliciousness (0.02173913) [it was below the minShapeSize threshold]
+plenty (0.02173913)
+waking (0.02173913)
+blackening (0.02173913)
+regrow (0.02173913) [it was below the minShapeSize threshold]
+closes (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/3qponmy0sz (0.02173913)
+looking (0.02173913)
+http://t.co/b4m7g0nzrw (0.02173913)
+heard (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/puxozn5nvq (0.02173913)
+homecooked (0.02173913) [it was below the minShapeSize threshold]
+officially (0.02173913)
+http://t.co/z3a2surgqu (0.02173913)
+http://t.co/wwg4tm0d1m (0.02173913)
+happiest (0.02173913)
+http://t.co/qe8rkagixl (0.02173913)
+http://t.co/jntwvzlp2k (0.02173913)
+http://t.co/juxo4ujel9 (0.02173913)
+cuts (0.02173913) [it was below the minShapeSize threshold]
+desserts (0.02173913) [it was below the minShapeSize threshold]
+ideas (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/79f4ajihwh (0.02173913)
+ideal (0.02173913) [it was below the minShapeSize threshold]
+icecreampie (0.02173913)
+https://t.co/bzcvlgwytb (0.02173913)
+no-fuss (0.02173913) [it was below the minShapeSize threshold]
+classification (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/kioh8mejfu (0.02173913)
+https://t.co/cymwgcq04j (0.02173913)
+bride-and-grooms-to-be (0.02173913)
+save (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/5nzgfyhjwp (0.02173913)
+http://t.co/5zda4b4lxl (0.02173913)
+calzone (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/2vdrx4gasl (0.02173913)
+actually (0.02173913)
+101...just (0.02173913)
+http://t.co/vk2glnincg (0.02173913)
+http://t.co/o521b7vmin (0.02173913)
+http://t.co/qxsdzftesn (0.02173913)
+http://t.co/ds3ataarql (0.02173913)
+wings (0.02173913) [it was below the minShapeSize threshold]
+official (0.02173913) [it was below the minShapeSize threshold]
+live (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/wn8oubgpp0 (0.02173913)
+http://t.co/ef6h23yvuh (0.02173913)
+flat (0.02173913) [it was below the minShapeSize threshold]
+quicktips (0.02173913)
+essentials (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/xmxz2xsvpa (0.02173913)
+freezer (0.02173913) [it was below the minShapeSize threshold]
+warming (0.02173913) [it was below the minShapeSize threshold]
+shrimpin (0.02173913)
+likes (0.02173913) [it was below the minShapeSize threshold]
+included (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ll6tplxbxr (0.02173913) [it was below the minShapeSize threshold]
+stick (0.02173913) [it was below the minShapeSize threshold]
+wax (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/nhu1annonb (0.02173913) [it was below the minShapeSize threshold]
+beauty (0.02173913) [it was below the minShapeSize threshold]
+believe (0.02173913) [it was below the minShapeSize threshold]
+arugula (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rargngf9sc (0.02173913)
+https://t.co/i1wqvjyzvj (0.02173913) [it was below the minShapeSize threshold]
+subs (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/io9txohuhq (0.02173913) [it was below the minShapeSize threshold]
+less (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/beiovf5bmp (0.02173913) [it was below the minShapeSize threshold]
+stir-fry (0.02173913) [it was below the minShapeSize threshold]
+colder (0.02173913) [it was below the minShapeSize threshold]
+shallots (0.02173913) [it was below the minShapeSize threshold]
+list (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/otent3d7pz (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dtinncyk06 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ksqkecqnur (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ji44dby8yt (0.02173913) [it was below the minShapeSize threshold]
+spinach (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jvxyroe2sg (0.02173913) [it was below the minShapeSize threshold]
+curried (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rbctjfab3u (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/psibjevzyl (0.02173913) [it was below the minShapeSize threshold]
+thrilled (0.02173913) [it was below the minShapeSize threshold]
+linguine (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/v4k64yfvm3 (0.02173913) [it was below the minShapeSize threshold]
+turning (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/pjjw2hms4o (0.02173913) [it was below the minShapeSize threshold]
+washington (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/xz86lnoiia (0.02173913) [it was below the minShapeSize threshold]
+packaging (0.02173913) [it was below the minShapeSize threshold]
+deceptively (0.02173913) [it was below the minShapeSize threshold]
+snow (0.02173913) [it was below the minShapeSize threshold]
+piece (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dwtmylnro5 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/vgl3orqydv (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/gkrsoc2cqd (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/vbul7ba4ck (0.02173913) [it was below the minShapeSize threshold]
+international (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/unsv4d9mr6 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rzqleacd1x (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/zmqaf1pxfl (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/fdfxflq2oh (0.02173913) [it was below the minShapeSize threshold]
+risotto-style (0.02173913) [it was below the minShapeSize threshold]
+kernels (0.02173913) [it was below the minShapeSize threshold]
+coming (0.02173913) [it was below the minShapeSize threshold]
+sun's (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/2dimvpqyqd (0.02173913) [it was below the minShapeSize threshold]
+gyros (0.02173913) [it was below the minShapeSize threshold]
+firstdayoffall (0.02173913) [it was below the minShapeSize threshold]
+atcha (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/qrhonermy7 (0.02173913) [it was below the minShapeSize threshold]
+desk (0.02173913) [it was below the minShapeSize threshold]
+eats (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/yvmelav6rd (0.02173913) [it was below the minShapeSize threshold]
+sweetsoychicken (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/z3xvzd9hyb (0.02173913) [it was below the minShapeSize threshold]
+earned (0.02173913) [it was below the minShapeSize threshold]
+scratch (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/piuzzxmfh4 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/grpvlo7o01 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/k5hd8sp6ge (0.02173913) [it was below the minShapeSize threshold]
+gnocchi (0.02173913) [it was below the minShapeSize threshold]
+vegetables (0.02173913) [it was below the minShapeSize threshold]
+jul (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/mbpru90gon (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/gxpswo247h (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/febnqhya2v (0.02173913) [it was below the minShapeSize threshold]
+seasonalcooking (0.02173913) [it was below the minShapeSize threshold]
+nationaldogday (0.02173913) [it was below the minShapeSize threshold]
+chilled (0.02173913) [it was below the minShapeSize threshold]
+tx (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/q0xmvm9av1 (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/it1cr3pz9l (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/nrrgkfyu8p (0.02173913) [it was below the minShapeSize threshold]
+molten (0.02173913) [it was below the minShapeSize threshold]
+slice (0.02173913) [it was below the minShapeSize threshold]
+impressive (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/sexffg0kcu (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ejgz6yktfy (0.02173913) [it was below the minShapeSize threshold]
+part (0.02173913) [it was below the minShapeSize threshold]
+happens (0.02173913) [it was below the minShapeSize threshold]
+wrapping (0.02173913) [it was below the minShapeSize threshold]
+oregon (0.02173913) [it was below the minShapeSize threshold]
+after-dinner (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hfzv59hl6k (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/vwi867irz1 (0.02173913) [it was below the minShapeSize threshold]
+round (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/grhlolvfzc (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/4px9zmwwtw (0.02173913) [it was below the minShapeSize threshold]
+takes (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hx5o2l3mjh (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/fu68h2wdpv (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/051ur2sqwh (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/imlfzl0mgd (0.02173913) [it was below the minShapeSize threshold]
+welcome (0.02173913) [it was below the minShapeSize threshold]
+dessert (0.02173913) [it was below the minShapeSize threshold]
+shallot (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/dizyji6e7z (0.02173913) [it was below the minShapeSize threshold]
+overnight (0.02173913) [it was below the minShapeSize threshold]
+twitterversary (0.02173913) [it was below the minShapeSize threshold]
+brisket (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/iantnvqug3 (0.02173913) [it was below the minShapeSize threshold]
+mexico (0.02173913) [it was below the minShapeSize threshold]
+billion (0.02173913) [it was below the minShapeSize threshold]
+white (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/t9cf3qbitg (0.02173913) [it was below the minShapeSize threshold]
+cider https://t.co/gfgsjyx52m (0.02173913) [it was below the minShapeSize threshold]
+mizuna (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/v18qyi6uww (0.02173913) [it was below the minShapeSize threshold]
+size (0.02173913) [it was below the minShapeSize threshold]
+properly (0.02173913) [it was below the minShapeSize threshold]
+finish (0.02173913) [it was below the minShapeSize threshold]
+tagine (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/tiurx9ylpf (0.02173913) [it was below the minShapeSize threshold]
+stir-friday (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/7thvfickav (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/yzamlarquq (0.02173913) [it was below the minShapeSize threshold]
+shopping (0.02173913) [it was below the minShapeSize threshold]
+cardamom (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/nkbfely6aq (0.02173913) [it was below the minShapeSize threshold]
+brick (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ji9fgd32cd (0.02173913) [it was below the minShapeSize threshold]
+@reneeandrews (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jgk3egzypc (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/wimszlxrb2 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dfyg6etqqa (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/p6fjeqybol (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ft7dr0ix03 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/trbgmtbwto (0.02173913) [it was below the minShapeSize threshold]
+stirred (0.02173913) [it was below the minShapeSize threshold]
+bunch (0.02173913) [it was below the minShapeSize threshold]
+four (0.02173913) [it was below the minShapeSize threshold]
+week...yes (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/58rgybccfg (0.02173913) [it was below the minShapeSize threshold]
+guac (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ieuu8l98wt (0.02173913) [it was below the minShapeSize threshold]
+bowl (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jmpt41ukvf (0.02173913) [it was below the minShapeSize threshold]
+dry (0.02173913) [it was below the minShapeSize threshold]
+rush (0.02173913) [it was below the minShapeSize threshold]
+recycling (0.02173913) [it was below the minShapeSize threshold]
+sweeps (0.02173913) [it was below the minShapeSize threshold]
+bolognese (0.02173913) [it was below the minShapeSize threshold]
+couples (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/gcd3wh55pv (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/fzkfm5ve0a (0.02173913) [it was below the minShapeSize threshold]
+fajitas (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rg5zeh7b9b (0.02173913) [it was below the minShapeSize threshold]
+school (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/vctjifyib5 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/zpvnpxrzrv (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rvkqkedxkq (0.02173913) [it was below the minShapeSize threshold]
+grain (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hp4lokyxrz (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/e4lgrmnvl3 (0.02173913) [it was below the minShapeSize threshold]
+relish (0.02173913) [it was below the minShapeSize threshold]
+harvest (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/xbzczihvbs (0.02173913) [it was below the minShapeSize threshold]
+fry (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/bkrgj6u3gv (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/dqgrgzgkrb (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/l5lykkhaps (0.02173913) [it was below the minShapeSize threshold]
+okra (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/b9vbweu8kx (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hmdfeol5qo (0.02173913) [it was below the minShapeSize threshold]
+relax (0.02173913) [it was below the minShapeSize threshold]
+avocados (0.02173913) [it was below the minShapeSize threshold]
+quick-preserve (0.02173913) [it was below the minShapeSize threshold]
+guests (0.02173913) [it was below the minShapeSize threshold]
+vietnamese (0.02173913) [it was below the minShapeSize threshold]
+shine (0.02173913) [it was below the minShapeSize threshold]
+tis (0.02173913) [it was below the minShapeSize threshold]
+first-days-of-fall (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/3vlddacxte (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/atyhimmx1o (0.02173913) [it was below the minShapeSize threshold]
+distinct (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rti86y7mdk (0.02173913) [it was below the minShapeSize threshold]
+cover (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/l0qdfcon70 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/4hqujhs2e4 (0.02173913) [it was below the minShapeSize threshold]
+wisconson-style (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/innparrb9z (0.02173913) [it was below the minShapeSize threshold]
+fillet (0.02173913) [it was below the minShapeSize threshold]
+wind (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/2paju77zua (0.02173913) [it was below the minShapeSize threshold]
+form (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/abnsf4beuc (0.02173913) [it was below the minShapeSize threshold]
+alert (0.02173913) [it was below the minShapeSize threshold]
+orange-ade (0.02173913) [it was below the minShapeSize threshold]
+avocado (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/xsdcopb5dn (0.02173913) [it was below the minShapeSize threshold]
+prepare (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/vtozrkqe5l (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/zu73uf3hys (0.02173913) [it was below the minShapeSize threshold]
+without (0.02173913) [it was below the minShapeSize threshold]
+plum (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/tapwueroxk (0.02173913) [it was below the minShapeSize threshold]
+manning (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/bhaeongvgc (0.02173913) [it was below the minShapeSize threshold]
+cheesing (0.02173913) [it was below the minShapeSize threshold]
+fontina (0.02173913) [it was below the minShapeSize threshold]
+cakes (0.02173913) [it was below the minShapeSize threshold]
+locked (0.02173913) [it was below the minShapeSize threshold]
+flare (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/3hugzovjaf (0.02173913) [it was below the minShapeSize threshold]
+maitake (0.02173913) [it was below the minShapeSize threshold]
+america (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/a2pmqix7ub (0.02173913) [it was below the minShapeSize threshold]
+buttermilk (0.02173913) [it was below the minShapeSize threshold]
+diets (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/a5rqxoioqb (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/7r99sozuwq (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/szd1dui40l (0.02173913) [it was below the minShapeSize threshold]
+version (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/aheg8fb7da (0.02173913) [it was below the minShapeSize threshold]
+queso (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/kxamwnitrd (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dkcj09woha (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/75hsyumwd7 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ibwheedeit (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dqhwtnhi2v (0.02173913) [it was below the minShapeSize threshold]
+celery (0.02173913) [it was below the minShapeSize threshold]
+pockets (0.02173913) [it was below the minShapeSize threshold]
+giving (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jzinbheqqb (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ysyknrdkpu (0.02173913) [it was below the minShapeSize threshold]
+enchiladas (0.02173913) [it was below the minShapeSize threshold]
+shells (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/oelcyytpel (0.02173913) [it was below the minShapeSize threshold]
+heaven (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/e13bpxnviu (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/g9vtcxqggl (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/4pujtn9wju (0.02173913) [it was below the minShapeSize threshold]
+outbreak (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/qyrdn4gi8s (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/nmvq4qbd0k (0.02173913) [it was below the minShapeSize threshold]
+old (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/g674gt2lmp (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jypz6bq4j3 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/mrozsklbyn (0.02173913) [it was below the minShapeSize threshold]
+tea (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/xofgvkvmwp (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/4bp7l2zva0 (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/jqyfjm7qpr (0.02173913) [it was below the minShapeSize threshold]
+breadcrumb (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/0x6z7nnpbe (0.02173913) [it was below the minShapeSize threshold]
+turned (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ntek7hofcm (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/s1apobb2pu (0.02173913) [it was below the minShapeSize threshold]
+pesto (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/vrbdrpksyc (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/uv4yc8txh1 (0.02173913) [it was below the minShapeSize threshold]
+taco (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/mgnpgomn0w (0.02173913) [it was below the minShapeSize threshold]
+garnish (0.02173913) [it was below the minShapeSize threshold]
+@techcrunch (0.02173913) [it was below the minShapeSize threshold]
+power (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/8vag4ue4os (0.02173913) [it was below the minShapeSize threshold]
+leeks (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ftn59iabtq (0.02173913) [it was below the minShapeSize threshold]
+radishes (0.02173913) [it was below the minShapeSize threshold]
+blueapronxzola (0.02173913) [it was below the minShapeSize threshold]
+breathe (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hwfzmqs0xm (0.02173913) [it was below the minShapeSize threshold]
+crisper (0.02173913) [it was below the minShapeSize threshold]
+hash (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/dx5iuasnzc (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/kfpqhelqtb (0.02173913) [it was below the minShapeSize threshold]
+fall's (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/l7xg3xvcyd (0.02173913) [it was below the minShapeSize threshold]
+winning (0.02173913) [it was below the minShapeSize threshold]
+default (0.02173913) [it was below the minShapeSize threshold]
+napkins (0.02173913) [it was below the minShapeSize threshold]
+company (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/w6rzmzrium (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/6jsntk5xm8 (0.02173913) [it was below the minShapeSize threshold]
+treat (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/wbv1rddsi6 (0.02173913) [it was below the minShapeSize threshold]
+stop (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/gh90o4h5vl (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/imbe8sb1yg (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/hzeajqokxr (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/u9w69rci5a (0.02173913) [it was below the minShapeSize threshold]
+pretty (0.02173913) [it was below the minShapeSize threshold]
+baked (0.02173913) [it was below the minShapeSize threshold]
+mornings (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/pgm2he2obt (0.02173913) [it was below the minShapeSize threshold]
+dice (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/z1gadt3erh (0.02173913) [it was below the minShapeSize threshold]
+order (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/llcpxwymya (0.02173913) [it was below the minShapeSize threshold]
+weekday (0.02173913) [it was below the minShapeSize threshold]
+meat (0.02173913) [it was below the minShapeSize threshold]
+wash (0.02173913) [it was below the minShapeSize threshold]
+dig (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/xbwtc2pguq (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/lbm7lrl1ea (0.02173913) [it was below the minShapeSize threshold]
+repertoire (0.02173913) [it was below the minShapeSize threshold]
+rich (0.02173913) [it was below the minShapeSize threshold]
+fill (0.02173913) [it was below the minShapeSize threshold]
+jerky (0.02173913) [it was below the minShapeSize threshold]
+creamy (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/ge0gktqdem (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/weymswn711 (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/mav0acwofv (0.02173913) [it was below the minShapeSize threshold]
+shock (0.02173913) [it was below the minShapeSize threshold]
+toasty (0.02173913) [it was below the minShapeSize threshold]
+https://t.co/opdcueuxu8 (0.02173913) [it was below the minShapeSize threshold]
+yu (0.02173913) [it was below the minShapeSize threshold]
+oktoberfest (0.02173913) [it was below the minShapeSize threshold]
+remembered (0.02173913) [it was below the minShapeSize threshold]
+http://t.co/rhnkukz6pu (0.02173913) [it was below the minShapeSize threshold]
