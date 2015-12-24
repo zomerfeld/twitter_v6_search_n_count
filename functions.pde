@@ -30,25 +30,23 @@ void getNewTweets(String searchUser, long whatever) {
 // Extract TWEETS - SAVE TO FILE ////////////////////////////////////////////
 
 void extractTweets(String user) {
-  int userIndexRow = nameTable.findRowIndex(user,1); //finds the index row for the user
+  int userIndexRow = nameTable.findRowIndex(user, 1); //finds the index row for the user
   TableRow result = nameTable.findRow(user, 1);
   String lastID_user = result.getString(2);
   //filename = "indexed/" + user + "_" + lastID_user + ".txt"; //with last ID in the filename
   filename = "indexed/" + user + ".txt"; //with last ID in the filename
 
- for (TableRow row : dataTable.findRows(user, 0)) {
+  for (TableRow row : dataTable.findRows(user, 0)) {
     //println(row.getString(1) + ": " + row.getString(3)); //Prints all the tweets to the console
-    
-    appendTextToFile(filename, row.getString(3)); //Put tweet into the plain text file. 
-    
+
+    appendTextToFile(filename, row.getString(3)); //Put tweet into the plain text file.
   }
   //COUNT numbers of lines in files
   String lines[] = loadStrings(filename);
   println("there are " + lines.length + " lines");
-  
+
   //update names.tsv 4th column with last tweet extracted
-  nameTable.setString(userIndexRow,3,lastID_user);
-  
+  nameTable.setString(userIndexRow, 3, lastID_user);
 }
 
 
@@ -149,7 +147,7 @@ void makeWordTable(String file) {
   int MAX = 10; 
   int count = 0;
   Iterator it = keys.iterator();
-//  while (it.hasNext() && count < MAX) //Original with max of 10
+  //  while (it.hasNext() && count < MAX) //Original with max of 10
   while (it.hasNext()) //Commenting it out to see if I can change it to an if
   { //Saves it all to the tsv file
     String key = (String) it.next(); 
@@ -162,35 +160,35 @@ void makeWordTable(String file) {
     //text(key, random(width-50), random(height)); //prints tweet on screen
     //// end of visualization **************************************************
     count++;
-    
   }
 
   return;
 }
 
 
-// FIND THE MAX IDS IN THE TWEETS TSV FILE ////////////////////////////////////////////
+// FIND THE MAX IDS IN THE TWEETS TSV FILE and store them in column 2 (the 3rd) in names.tsv  ////////////////////////////////////////////
 
 
 void maxID() {
 
-  HashMap<String, Long> users = new HashMap<String, Long>();
-  for (int row = 0; row < nameTable.getRowCount(); row++) {
-    String userName = nameTable.getString(row, 1);
-    users.put(userName, (long) 1);
+  HashMap<String, Long> users = new HashMap<String, Long>(); //Creates a hashmap to sort this out
+
+  for (int row = 0; row < nameTable.getRowCount(); row++) { 
+    String userName = nameTable.getString(row, 1); //gets all the usernames from the nametable
+    users.put(userName, (long) 1); //stores them in the users hashmap
   }
 
-  for (int row = 0; row < dataTable.getRowCount(); row++) {
-    String userName = dataTable.getString(row, 0);
-    Long lastTweetId = Long.parseLong(dataTable.getString(row, 1));
+  for (int row = 0; row < dataTable.getRowCount(); row++) { //goes over all the lines in the datatable
+    String userName = dataTable.getString(row, 0); //gets the username from the line in the table
+    Long lastTweetId = Long.parseLong(dataTable.getString(row, 1)); //gets the ID from the data table
 
-    if (users.get(userName) < lastTweetId) {
-      users.put(userName, lastTweetId);
+    if (users.get(userName) < lastTweetId) { //if the last id in the namestable is smaller
+      users.put(userName, lastTweetId); //save the last tweet id
       println("this is larger: " + lastTweetId);
     }
   } 
-
-  for (String userName : users.keySet()) {
+  //stores the hashmap last ID to column 2 in the names.tsv
+  for (String userName : users.keySet()) { 
     println(userName + ": " + users.get(userName));
     for (int i = 0; i < nameTable.getRowCount(); i++) {
       if (nameTable.getString(i, 1).equals(userName)) {
@@ -204,12 +202,40 @@ void maxID() {
 }
 
 
-void drawWord (String dword, float dweight,float dMax, float dMin) {
-  float dweightNorm = map(dweight,dMax,dMin,1,120);
-  fill(255,255,0);
+void drawWord (String dword, float dweight, float dMax, float dMin) {
+  float dweightNorm = map(dweight, dMax, dMin, 1, 120);
+  fill(255, 255, 0);
   textSize(dweightNorm/10 +0.1);
   text(dword, random(width-50), random(height)); //prints tweet on screen
   println(dword);
   delay(1);
-  
+}
+
+
+void deleteFile(String file) {
+    String fileNameD = file;
+    // A File object to represent the filename
+    File f = new File(fileNameD);
+
+    // Make sure the file or directory exists and isn't write protected
+    if (!f.exists())
+      println("Delete: no such file or directory: " + fileNameD);
+
+    if (!f.canWrite())
+      println("Delete: write protected: " + fileNameD);
+
+    // If it is a directory, make sure it is empty
+    if (f.isDirectory()) {
+      String[] files = f.list();
+      if (files.length > 0)
+        println("Delete: directory not empty: " + fileNameD);
+    }
+
+    // Attempt to delete it
+    boolean success = f.delete();
+
+    if (!success) {
+      println("Delete: deletion failed");
+  }
+
 }
