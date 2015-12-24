@@ -27,6 +27,30 @@ void getNewTweets(String searchUser, long whatever) {
   System.out.println("Total: "+tweets.size());
 }
 
+// Extract TWEETS - SAVE TO FILE ////////////////////////////////////////////
+
+void extractTweets(String user) {
+  int userIndexRow = nameTable.findRowIndex(user,1); //finds the index row for the user
+  TableRow result = nameTable.findRow(user, 1);
+  String lastID_user = result.getString(2);
+  //filename = "indexed/" + user + "_" + lastID_user + ".txt"; //with last ID in the filename
+  filename = "indexed/" + user + ".txt"; //with last ID in the filename
+
+ for (TableRow row : dataTable.findRows(user, 0)) {
+    //println(row.getString(1) + ": " + row.getString(3)); //Prints all the tweets to the console
+    
+    appendTextToFile(filename, row.getString(3)); //Put tweet into the plain text file. 
+    
+  }
+  //COUNT numbers of lines in files
+  String lines[] = loadStrings(filename);
+  println("there are " + lines.length + " lines");
+  
+  //update names.tsv 4th column with last tweet extracted
+  nameTable.setString(userIndexRow,3,lastID_user);
+  
+}
+
 
 // PROCESS TWEETS - SAVE TO FILE AND DISPLAY ////////////////////////////////////////////
 
@@ -132,12 +156,11 @@ void makeWordTable(String file) {
     NameAndNumber nan = (NameAndNumber) map.get(key);
     //println(key + " -> " + nan.m_number); //prints all sorted words if you uncomment
     appendTextToFile(file+"_weighted.tsv", key + "\t" + nan.m_number); //Put tweet into the plain text file.
-    time = millis();//store the current time
-    //Trying to add a visualization for each user *************************
-    fill(0.1 * nan.m_number);
-    textSize(nan.m_number/20 +0.1);
-    text(key, random(width-50), random(height)); //prints tweet on screen
-    // end of visualization **************************************************
+    ////Trying to add a visualization for each user *************************
+    //fill(0.1 * nan.m_number);
+    //textSize(nan.m_number/10 +0.1);
+    //text(key, random(width-50), random(height)); //prints tweet on screen
+    //// end of visualization **************************************************
     count++;
     
   }
@@ -178,4 +201,15 @@ void maxID() {
       }
     }
   }
+}
+
+
+void drawWord (String dword, float dweight,float dMax, float dMin) {
+  float dweightNorm = map(dweight,dMax,dMin,1,120);
+  fill(255,255,0);
+  textSize(dweightNorm/10 +0.1);
+  text(dword, random(width-50), random(height)); //prints tweet on screen
+  println(dword);
+  delay(1);
+  
 }

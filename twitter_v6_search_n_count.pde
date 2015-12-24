@@ -16,6 +16,7 @@ String timeString;
 String wordsTable;
 String tsvOutput;
 String filename;
+ArrayList<String> files = new ArrayList<String>();
 Table nameTable;
 Table dataTable;
 Table countedTable;
@@ -28,6 +29,9 @@ Twitter twitter;
 PFont f;
 long time;
 int wait = 100;
+Table weightTable;
+int wRowCount =0;
+
 
 void setup() {
   //frameRate(10);
@@ -43,14 +47,14 @@ void setup() {
   dataTable = loadTable(tsvOutput, "tsv"); //The table where the tweets will be saved
   countedTable = new Table();
   tConfigure(); // Configures Twitter Authentication. The configure function is in a separate file that doesn't go on github.
-  
+
   //configs for visualization:
   time = millis();//store the current time
-  f = createFont("Arial",20,true);
+  f = createFont("Arial", 20, true);
   textFont(f);
-  
+
   //end configs for visualization
-  
+
 
   rowCount = nameTable.getRowCount();
   println("rowcount of name table is: " + rowCount);
@@ -58,89 +62,98 @@ void setup() {
   maxID(); //Goes over the tweets tsv file,
 }
 
-void extractTweets(String user) {
-  int userIndexRow = nameTable.findRowIndex(user,1); //finds the index row for the user
-  TableRow result = nameTable.findRow(user, 1);
-  String lastID_user = result.getString(2);
-  filename = "indexed/" + user + "_" + lastID_user + ".txt";
-
- for (TableRow row : dataTable.findRows(user, 0)) {
-    //println(row.getString(1) + ": " + row.getString(3)); //Prints all the tweets to the console
-    
-    appendTextToFile(filename, row.getString(3)); //Put tweet into the plain text file. 
-    
-  }
-  //COUNT numbers of lines in files
-  String lines[] = loadStrings(filename);
-  println("there are " + lines.length + " lines");
-  
-  //update names.tsv 4th column with last tweet extracted
-  nameTable.setString(userIndexRow,3,lastID_user);
-  
-}
-
-void draw() {
-  time = millis();//store the current time
+void doitall() {
+ while (currentRow < rowCount) {
   fill(0, 30);
   rect(0, 0, width, height); //fades the tweets from the screen by printing a semi-opaque black square on top of them
 
   currentRow++;
 
- if (currentRow < rowCount) { //if there are more users to look up in name table
-     user = nameTable.getString(currentRow, 1); //gets the username from the name table
-     extractTweets(user); // puts tweets in txt file
-     println("tweets extracted");
-     makeWordTable(filename); //takes tweets, counts words and add it into a tsv
-     println("word table made");
+    //if there are more users to look up in name table
+    user = nameTable.getString(currentRow, 1); //gets the username from the name table
+    extractTweets(user); // puts tweets in txt file
+    println("tweets extracted");
+    makeWordTable(filename); //takes tweets, counts words and add it into a tsv
+    files.add(filename + "_weighted.tsv");
+    println("word table made");
+  }
 
- }
-  
- if (currentRow == rowCount) {
-    saveTable(nameTable,"data/names.tsv"); //only save table when the sketch is done
-    println("***DONEZO***");
-    
-    
-    
-    noLoop();
- }
+void draw() {
+  time = millis();//store the current time
+  doitall();
 
-  //if (currentTweet < tweets.size()) { //combs over all the tweets in the memory from the get new tweets function
-  //  Status status = tweets.get(currentTweet);
-  //  println("current tweet: " + currentTweet);
-  //  String str = status.getText();
-  //  if (str.charAt(0) != '@') { //IGNORES replies and tweets that starts with mentions
-  //    String getTextSani = status.getText().replaceAll("(\\r|\\n)", "  "); //removes break lines from tweets - how wonderful
-  //    appendTextToFile(fileStore, getTextSani); //Put tweet into the plain text file. 
-  //    appendTextToFile(tsvOutput, (user + "\t" + status.getId() + "\t" + status.getCreatedAt() + "\t" + getTextSani)); //puts tweets (and user, tweet ID and date+time) into the TSV file
-  //    fill(200);
-  //    text(getTextSani, random(width-300), random(height-150), 300, 200); //prints tweet on screen
-  //    delay(2);
-  //  }
-  //  currentTweet = currentTweet + 1; //Moves to the next tweet
-  //} else { //if all tweets in memory are processed or there are no tweets in memory
-  //  println("clearing and moving row");
-  //  tweets.clear(); //remove all tweets from memory (if it's not already empty)
-  //  currentRow++; // moves one row in the names.tsv (nameTable)
-  //  pageno = 1; //sets the page to be 1 again, to start retrieving tweets from another user
-  //  currentTweet = 0; // resets the tweet count to 0
-  //  println("current row in name table: " + currentRow);
-  //  println("currentTweet in memory: " + currentTweet);
-  //  println("tweets.size (total tweets in mem): " + tweets.size());
-
-  //  if (currentRow < rowCount) { //if there are more users to look up in name table
-  //    user = nameTable.getString(currentRow, 1); //gets the username from the name table
-  //    DataRowCount = dataTable.getRowCount(); //counts the rows in the tweets table
+  if (currentRow == rowCount) {
+    saveTable(nameTable, "data/names.tsv"); //only save table when the sketch is done
+    ////Trying to add a visualization for each user *************************
+    for (int i = 0; i<files.size(); i++) {
+      String wTable = files.get(i);
+      float dataMin = MAX_FLOAT;
+      float dataMax = MIN_FLOAT;
+      weightTable = loadTable(wTable, "tsv"); //The table where the tweets will be saved
+      int wRowCount = weightTable.getRowCount();
+      for (int row = 0; row < wRowCount; row++) {
+        float value = weightTable.getFloat(row, 1);
+        if (value > dataMax) {
+          dataMax = value;
+        }
+        if (value < dataMin) {
+          dataMin = value;
+        }
+      }
+    for (int row = 0; row < wRowCount; row++) {
+      String word = weightTable.getString(row, 0);
+      float weight = weightTable.getFloat(row, 1);
+      drawWord(word, weight, dataMax, dataMin);
+    }
+   }
+  //fill(0.1 * nan.m_number);
+  //textSize(nan.m_number/10 +0.1);
+  //text(key, random(width-50), random(height)); //prints tweet on screen
+  //// end of visualization **************************************************
+  println("***DONEZO***");
 
 
-  //    println("now retrieving: " + user);
-  //    getNewTweets(user, 1); //Gets tweets to memory (1 is fake number, real number retrieval for sinceID is done in the actual maxID() function
-  //    //processTweets(); //doesn't do anything, empty function. Keeping it here just in the meantime
-  //  }
-  //}
 
-  //if (currentRow > rowCount) { //When there are no new tweets anymore
-  //  maxID(); // updates names.tsv with the last ids in tweets.tsv
-  //  noLoop(); //stops the loop
-  //  println("***DONEZO***");
-  //}
+  //noLoop();
+}
+
+//if (currentTweet < tweets.size()) { //combs over all the tweets in the memory from the get new tweets function
+//  Status status = tweets.get(currentTweet);
+//  println("current tweet: " + currentTweet);
+//  String str = status.getText();
+//  if (str.charAt(0) != '@') { //IGNORES replies and tweets that starts with mentions
+//    String getTextSani = status.getText().replaceAll("(\\r|\\n)", "  "); //removes break lines from tweets - how wonderful
+//    appendTextToFile(fileStore, getTextSani); //Put tweet into the plain text file. 
+//    appendTextToFile(tsvOutput, (user + "\t" + status.getId() + "\t" + status.getCreatedAt() + "\t" + getTextSani)); //puts tweets (and user, tweet ID and date+time) into the TSV file
+//    fill(200);
+//    text(getTextSani, random(width-300), random(height-150), 300, 200); //prints tweet on screen
+//    delay(2);
+//  }
+//  currentTweet = currentTweet + 1; //Moves to the next tweet
+//} else { //if all tweets in memory are processed or there are no tweets in memory
+//  println("clearing and moving row");
+//  tweets.clear(); //remove all tweets from memory (if it's not already empty)
+//  currentRow++; // moves one row in the names.tsv (nameTable)
+//  pageno = 1; //sets the page to be 1 again, to start retrieving tweets from another user
+//  currentTweet = 0; // resets the tweet count to 0
+//  println("current row in name table: " + currentRow);
+//  println("currentTweet in memory: " + currentTweet);
+//  println("tweets.size (total tweets in mem): " + tweets.size());
+
+//  if (currentRow < rowCount) { //if there are more users to look up in name table
+//    user = nameTable.getString(currentRow, 1); //gets the username from the name table
+//    DataRowCount = dataTable.getRowCount(); //counts the rows in the tweets table
+
+
+//    println("now retrieving: " + user);
+//    getNewTweets(user, 1); //Gets tweets to memory (1 is fake number, real number retrieval for sinceID is done in the actual maxID() function
+//    //processTweets(); //doesn't do anything, empty function. Keeping it here just in the meantime
+//  }
+//}
+
+//if (currentRow > rowCount) { //When there are no new tweets anymore
+//  maxID(); // updates names.tsv with the last ids in tweets.tsv
+//  noLoop(); //stops the loop
+//  println("***DONEZO***");
+//}
 }
