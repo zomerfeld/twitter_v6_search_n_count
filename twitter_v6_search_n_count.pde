@@ -33,12 +33,12 @@ Table weightTable;
 int wRowCount =0;
 
 
+
 void setup() {
   //frameRate(10);
   size(800, 600);
   timeString = year()+"-"+month()+"-"+day()+"-"+hour()+"-"+minute()+"-"+second(); //GET TIME
   println(timeString); // PRINT TIME
-  //fileStore = user + "_"+timeString + ".txt"; // Auto-generete per-use tweets filename Where to save the RAW tweets
   fileStore = "tweets"; //plain text file
   tsvOutput = fileStore + ".tsv"; //tweets.tsv file (currently taking the name from the plain text version
   println("plain text file: " + tsvOutput); // Prints the raw text tweet file location
@@ -90,8 +90,10 @@ void draw() {
   time = millis();//store the current time
   doitall();
 
-  if (currentRow == rowCount) {
+  if (currentRow == (rowCount - 1)) { //when DONE
     saveTable(nameTable, "data/names.tsv"); //only save table when the sketch is done
+    
+    
     ////Trying to add a visualization for each user *************************
     for (int i = 0; i<files.size(); i++) {
       String wTable = files.get(i);
@@ -111,7 +113,7 @@ void draw() {
       for (int row = 0; row < wRowCount; row++) {
         String word = weightTable.getString(row, 0);
         float weight = weightTable.getFloat(row, 1);
-        drawWord(word, weight, dataMax, dataMin);
+       // drawWord(word, weight, dataMax, dataMin); // The Draw Word function doesn't really work
       }
     }
     //fill(0.1 * nan.m_number);
