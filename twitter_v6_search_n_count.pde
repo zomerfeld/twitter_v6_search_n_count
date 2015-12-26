@@ -78,9 +78,9 @@ void doitall() {
     makeWordTable(filename); //takes tweets, counts words and add it into a tsv
     files.add(filename + "_weighted.tsv");
 
-    String filenameToDelete = dataPath(filename); //get full path of file
-    println("filename is: " + filenameToDelete);
-    deleteFile(filenameToDelete); //Delete txt file of tweets after processing
+  //  String filenameToDelete = dataPath(filename); //get full path of file
+    println("filename is: " + dataPath(filename));
+    deleteFile(filename); //Delete txt file of tweets after processing
   
     println("word table made");
   }
@@ -122,9 +122,7 @@ void draw() {
     //// end of visualization **************************************************
     println("***DONEZO***");
 
-
-
-    //noLoop();
+    noLoop();
   }
 
   //if (currentTweet < tweets.size()) { //combs over all the tweets in the memory from the get new tweets function

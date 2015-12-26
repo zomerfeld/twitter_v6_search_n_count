@@ -41,18 +41,23 @@ void extractTweets(String user) {
   for (TableRow row : dataTable.findRows(user, 0)) {
     if (Long.parseLong(row.getString(1)) > Long.parseLong(lastID_user_processed)) { //only process unprocessed tweets
      println("found new tweet");
-     println(Long.parseLong(row.getString(1)) + "is larger than: " + Long.parseLong(lastID_user_processed));
+     //println(Long.parseLong(row.getString(1)) + "is larger than: " + Long.parseLong(lastID_user_processed));
      nameTable.setString(userIndexRow, 3, row.getString(1));
 //      println(row.getString(1) + ": " + row.getString(3)); //Prints all the tweets to the console
       appendTextToFile(filename, row.getString(3)); //Put tweet into the plain text file.
+      appendTextToFile(filename+"_IDS.txt", key + "\t" + row.getString(1)); //Put tweet into the plain text file.
+
     }
   }
   //COUNT numbers of lines in files
-  lastID_user_processed = result.getString(3);
+  Table ProcessTable = loadTable(filename+"_IDS.txt", "tsv"); 
   File f = new File(dataPath(filename));
   if (f.exists()) {
+    lastID_user_processed = maxThis(user, ProcessTable);
     String lines[] = loadStrings(filename);
     println("there are " + lines.length + " lines");
+    println(maxThis(user, ProcessTable)); 
+    deleteFile(filename+"_IDS.txt");
   } else {
     println("no new tweets to put in " + filename);
   }
@@ -219,6 +224,30 @@ void makeWordTable(String file) {
       }
     }
   }
+  
+  
+    String maxThis(String thisUser, Table thisTable) {
+
+    HashMap<String, Long> users = new HashMap<String, Long>(); //Creates a hashmap to sort this out
+
+   // for (int row = 0; row < nameTable.getRowCount(); row++) { 
+      String userNameIs = thisUser; 
+      users.put(userNameIs, (long) 1); //stores them in the users hashmap
+   // }
+
+    for (int row = 0; row < thisTable.getRowCount(); row++) { //goes over all the lines in the datatable
+      String userName = thisTable.getString(row, 0); //gets the username from the line in the table
+      Long lastTweetId = Long.parseLong(thisTable.getString(row, 1)); //gets the ID from the data table
+
+      if (users.get(userNameIs) < lastTweetId) { //if the last id in the namestable is smaller
+        users.put(userNameIs, lastTweetId); //save the last tweet id
+        println("this is larger: " + lastTweetId);
+      }
+    } 
+      return users.get(userNameIs).toString();
+     
+
+  }
 
 
   void drawWord (String dword, float dweight, float dMax, float dMin) {
@@ -234,7 +263,7 @@ void makeWordTable(String file) {
   // ************** DELETE FILES ******************************************
 
   void deleteFile(String file) {
-    String fileNameD = file;
+    String fileNameD = dataPath(file);
     // A File object to represent the filename
     File f = new File(fileNameD);
 
